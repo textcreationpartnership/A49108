@@ -1,0 +1,919 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Apostolical communion in the Church of England, asserted and applied for the cure of divisions: in a sermon preached in the Cathedral-Church of St. Peter, Exon: and since enlarged. By Tho. Long, B.D. and one of the prebendaries.</title>
+            <author>Long, Thomas, 1621-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 118 KB of XML-encoded text transcribed from 39 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49108</idno>
+            <idno type="STC">Wing L2959</idno>
+            <idno type="STC">ESTC R217728</idno>
+            <idno type="EEBO-CITATION">99829377</idno>
+            <idno type="PROQUEST">99829377</idno>
+            <idno type="VID">33816</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49108)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33816)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1992:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Apostolical communion in the Church of England, asserted and applied for the cure of divisions: in a sermon preached in the Cathedral-Church of St. Peter, Exon: and since enlarged. By Tho. Long, B.D. and one of the prebendaries.</title>
+                  <author>Long, Thomas, 1621-1707.</author>
+               </titleStmt>
+               <extent>[8], 69, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Customs and practices --  Early works to 1800.</term>
+               <term>Church of England --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33816:1" rendition="simple:additions"/>
+            <p>Apoſtolical Communion IN THE CHURCH OF ENGLAND.</p>
+            <p>Aſserted and Applied. For the Cure of Diviſions:</p>
+            <p>In a SERMON Preached in the Cathedral-Church of St. Peter, Exon: And ſince Enlarged.</p>
+            <p>By Tho. Long, B. D. and one of the Prebendaries.</p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <bibl>Ignatius ad Magneſ.</bibl>
+            </q>
+            <q>Hinc moneamur, cum ſpecie studii perfectionis, imperfecti<g ref="char:EOLhyphen"/>onem nullam tolerare poſſumus, aut in corpore, aut in mem<g ref="char:EOLhyphen"/>bris Eccleſia; tunc diabolum nos tumefacere ſuperbia, &amp; hy<g ref="char:EOLhyphen"/>pocrisi seducere ad deſerendum Christ! gregem nos instiget; certo ſciens se victoriam obtinere, cum nos inde abduxit. Cum enim nuſquam alibi ſit, aut remiſſio peccatorum, aut ſalus, tametſi vitse pluſquam Angelicae ſpeciem prae nobis feramus, tamen ſi tali audacia nos ſeparemus a Christiano coetu, ſimus diaboli. <bibl>Calv. adv. Anab.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1673.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:33816:2"/>
+            <pb facs="tcp:33816:2"/>
+            <head>To the Right Worſhip<g ref="char:EOLhyphen"/>ful <hi>Henry Gandy</hi> Eſq Mayor of the City of <hi>Exeter;</hi> and the Al<g ref="char:EOLhyphen"/>dermen of the ſame.</head>
+            <p>THE Society whereof you are Members, (if it be fit to compare leſſer things with greater), may acquaint you with the neceſſity of Government, Laws, and Order in the Church of God: Firſt, You hold your Authority from the King, and his Laws; So doth the Church from Chriſt and his Goſpel: You have Superior and Inferior Offi<g ref="char:EOLhyphen"/>cers; So hath the Church: You have power to Enact certain Municipal Laws as occaſion ſhall require, for the peace
+<pb facs="tcp:33816:3"/> and welfare of the City; So hath the Church, by virtue of the general Pre<g ref="char:EOLhyphen"/>cepts of Chriſt and his Apoſtles: You have certain Forms and Rites in the A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>miniſtration of Juſtice<g ref="char:punc">▪</g> to make it more ſolemn<g ref="char:punc">▪</g> So hath the Church, to procure the greater Reverence in the Adminiſtration of Publick Worſhip: <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>u have many leſſer Societies of Ar<g ref="char:EOLhyphen"/>tificers, who have their dependance on you; So hath the Church, many Paro<g ref="char:EOLunhyphen"/>chial Congregations depending on the Biſhop of the Dioceſs. Now, if diſ<g ref="char:EOLhyphen"/>contented and pragmatical perſons ſhould ariſe among your ſelves, and make it their buſineſs, to defame your Government, as if it were tyrannical and arbitrary burthenſom and oppreſ<g ref="char:EOLhyphen"/>ſing, becauſe of a f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nt Forms and Cuſtoms; if they ſhould quarrel <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t ſome antiqu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s in your Legal proceeding<g ref="char:punc">▪</g> and take offence at the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Ceremonies, (and you know <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the ſame <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Magiſtrates, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Miniſter). If theſe <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nt and plead <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Reformation of all your
+<pb facs="tcp:33816:3"/> Laws, and Government; if they ſhould forge and pretend new Charters, and Commiſſions for the ſubverſion of the old; and erect mock-Courts of Juſtice, cenſuring, hating, and (as much as in them lyeth) condemning all that will not be of their Rabble: If they ſhould advance a Dozen of <hi>Burgo-Maſters</hi> into the Office of the <hi>Mayor,</hi> and make every man one of the Coun<g ref="char:EOLhyphen"/>cil; if they ſhould aboliſh all the an<g ref="char:EOLhyphen"/>cient Laws and Cuſtoms; lay aſide all Rites and Formalities; and bring in new Ordinances, ſuch as were never known in yours, or in the Government of any other Corporation? Were ſuch practices tolerable? Or if not ſpeedily re<g ref="char:EOLhyphen"/>medied, would they not bring the whole City to Confuſion? And is it not the duty of every good Magiſtrate, to pre<g ref="char:EOLhyphen"/>vent ſuch tumults? Now ſuch is the preſent condition of our Church; Schiſm and Separation in the Church, being of the ſame nature with Sedition and Tumult in the State<g ref="char:punc">▪</g> And God forbid it ſhould always be ſaid of Zion, as <hi>Jer. 3<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.17. This is Zion whom no man ſeeketh after. Tum tua res, agitur,</hi> is one Argument to ingage you all (as
+<pb facs="tcp:33816:4"/> you are Magiſtrates) in the defence of the Church; for ſeldom doth Facti<g ref="char:EOLhyphen"/>on prevail in the Church, but it pro<g ref="char:EOLhyphen"/>ceeds alſo to the alteration of the State. But you are engaged on more noble Prin<g ref="char:EOLhyphen"/>ciples, as Members of that Church which I plead for; and your Examples (as things now ſtand) may be more inſtru<g ref="char:EOLhyphen"/>mental for the peace of the Church, than your power; and when you meet with rational Diſſenters, your Arguments may not be altogether ineffectual. I have preſumed, to put a few ſuch Arguments into your hands, which I doubt not, may be inſtrumental to the confirming them that are yet in the Communion of the Church of <hi>England,</hi> though perhaps not effectual to recall thoſe that are departed; and yet I doubt not, but here is enough to convince them; their Converſion is the work of God.</p>
+            <p>It will be needleſs to give an account of my publiſhing this Sermon, or the pre<g ref="char:EOLhyphen"/>ſenting it to you. I ſhould be wanting to my duty as a Miniſter of the Church, if I ſhould omit to ſerve her Intereſt, as far as I am able. And the deſires of divers of this City, which was the place of my Nativity, and in whoſe welfare,
+<pb facs="tcp:33816:4"/> that of my ſelf and a numerous family are wrapt up, did eaſily prevail with me, to give this teſtimony of my real affection, as well to your perſons, as to your Government. I ſhall only trouble you with an account of my Subject, which is a perſwaſion to unity in the publick Worſhip of God, as it is profeſſed in the Church of <hi>England.</hi> If any ask, What that Church is? I anſwer, it is, The whole Nation, profeſſing the Goſpel of Chriſt, viſibly uniting themſelves by joint-conſent, of King, Paſtors, and people, and agreeing in certain Laws and Rules conformable to the Aposto<g ref="char:EOLhyphen"/>lical and Primitive Precepts and Pat<g ref="char:EOLhyphen"/>terns, for the Preaching of the Word, and the Administration of the Sacra<g ref="char:EOLhyphen"/>ments with decency and order, in the publick Worſhip of God. If this deſcription agree in every particular to our National Church, then the raiſing of Diviſions in it, and making Separa<g ref="char:EOLhyphen"/>tion from it, is the ſin of Schiſm, and that ſin extreamly dangerous; and therefore it is every mans duty, that lives within the pale of the Church, to keep himſelf in the Commu<g ref="char:EOLhyphen"/>nion
+<pb facs="tcp:33816:5"/> of the ſame: which is the endea<g ref="char:EOLhyphen"/>vour and constant prayer of,</p>
+            <closer>
+               <signed>
+                  <hi>Your devoted Servant in all Good Offices,</hi> THO: LONG.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:33816:5"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 Joh. 1.3.</hi>
+                  </bibl>
+                  <p>That which we have ſeen and heard, declare we unto you, that ye alſo may have fellow<g ref="char:EOLhyphen"/>ſhip with us; And truly, our fellowſhip is with the Father, and with his Son Jeſus Chriſt.</p>
+               </q>
+            </epigraph>
+            <p>THere are (ſaith <hi>Solomon</hi>) threeſcore Queens, and fourſcore Concubins, but the<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Epiph. Haer. <hi>35.</hi>
+               </note> undefiled is but one. There are many Factions beſides that at <hi>Rome,</hi>
+               <note place="margin">Cant. 6.8.</note> that pretend to be the Spouſe of Chriſt; but his beloved is but one, and that one is only beloved. Thus the <hi>Nicene</hi> Creed teacheth us, There is one Catholick and Apoſtolick Church, in which is the Com<g ref="char:EOLhyphen"/>munion of Saints, and Remiſſion of Sins. It concerns us therefore, to be well aſſured, as well in reſpect of our preſent comfort, as of our future happineſs, of the truth and purity of that part of the Church of Chriſt to which we join our ſelves in Communion; that our hope of Salvation, may be laid on the foun<g ref="char:EOLhyphen"/>dation of the Apoſtles and Prophets,<note place="margin">Eph. 2.10</note> Jeſus Chriſt himſelf being the chief Corner-ſtone. And if we are ambitious of any honor, let it be of this, not to be the Head or Prop of any petty Faction, but to be a Member of Chriſt, which the good Emperor <hi>Theodoſius</hi> pre<g ref="char:EOLhyphen"/>ferred
+<pb n="2" facs="tcp:33816:6"/> above his being Head of the Em<g ref="char:EOLhyphen"/>pire.</p>
+            <p>For if there be a Heaven upon Earth, it muſt needs conſiſt, as our eternal happineſs hereafter, in a Communion with God and his Son Jeſus Chriſt; and to this the Text guides even to Mount Sion,<note place="margin">Heb: 12.22.</note> and to the City of the Living God, the Heavenly Jeruſalem and to an innumerable company of Angels, to the General Aſſembly and Church of the Firſt-born, which are written in Heaven, and to God the Judg of all, and to the Spirits of Juſt Men made perfect, and to Jeſus the Mediator of the New Covenant. To confirm you in this Society, is the end of all our preaching, and your hearing; for when our Saviour aſcended up on high, he gave ſome Apoſtles,<note place="margin">Eph. 4.11. &amp; 14.</note> ſome Prophets, ſome Evangeliſts, and ſome Paſtors and Teachers, (that we ſhould be no more Children toſ<g ref="char:EOLhyphen"/>ſed to and fro with every wind of Doctrine, but) for the perfecting of the Saints for the work of the Miniſtry, for the edifying of the Body of Chriſt: This our Apoſtle in<g ref="char:EOLhyphen"/>timates to be the end of all the Scriptures, but more eſpecially of the Text: <hi>That which we have ſeen and heard, declare we unto you, that ye may have fellowſhip with us,</hi> &amp;c.</p>
+            <p>Church-Communion is my preſent Sub<g ref="char:EOLhyphen"/>ject, concerning which I obſerve theſe three parts in the Text.</p>
+            <p n="1">
+               <pb n="3" facs="tcp:33816:6"/>I. The ground and foundation of Apo<g ref="char:EOLhyphen"/>ſtolical Communion: <hi>That which we have ſeen and heard.</hi>
+            </p>
+            <p n="2">II. Wherein this Communion conſiſts; from the divers notions of the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in the Scripture: <hi>That ye may have fel<g ref="char:EOLhyphen"/>lowſhip with us, (i.e.),</hi> the Apoſtles.</p>
+            <p n="3">III. The excellency of this Communion: <hi>And truly our fellowſhip is with the Father,</hi> &amp;c.</p>
+            <p>That I may the better fix your meditati<g ref="char:EOLhyphen"/>ons on my diſcourſe, and that upon the Text, I ſhall give you the Subſtance of both, in this ſhort Argument.</p>
+            <p>That Church, which holds Communion with Chriſt and his Apoſtles, in Doctrine,<note place="margin">Omnis Do<g ref="char:EOLhyphen"/>ctrina quae cum Eccle<g ref="char:EOLhyphen"/>ſiis Apo<g ref="char:EOLhyphen"/>stolicis Matricibus &amp; Origi<g ref="char:EOLhyphen"/>nalibus fi<g ref="char:EOLhyphen"/>dei conſpi<g ref="char:EOLhyphen"/>rat verita<g ref="char:EOLhyphen"/>ti deputan<g ref="char:EOLhyphen"/>da. <hi>Tertul.</hi> de prae<g ref="char:EOLhyphen"/>ſcript.</note> Government, and Worſhip, is a true Mem<g ref="char:EOLhyphen"/>ber of Chriſts Church, in which Salvation may be had: But the Church of England holds Communion with Chriſt and his A<g ref="char:EOLhyphen"/>poſtles, in Doctrine, Government, and Wor<g ref="char:EOLhyphen"/>ſhip: Therefore the Church of <hi>England</hi> is is a true Member of Chriſts Church, in which ſalvation may be had.</p>
+            <p>My firſt Propoſition, I ſhall prove from <hi>Act.</hi> 2.42. where it is recorded of the Pri<g ref="char:EOLhyphen"/>mitive Chriſtians, That they continued ſted<g ref="char:EOLhyphen"/>faſtly in the Apoſtles Doctrine and fellow<g ref="char:EOLhyphen"/>ſhip, and in breaking of Bread, and in Pray<g ref="char:EOLhyphen"/>ers: and it follows, <hi>v.</hi> 47. <hi>The Lord added
+<pb n="4" facs="tcp:33816:7"/> daily to the Church ſuch as ſhould be ſaved:</hi> whence I obſerve,</p>
+            <p n="1">1. That by reaſon of this Communion, they are expreſly denominated the Church, <hi>Plebs ſacerdoti adunata,</hi> as Saint <hi>Cyprian.</hi>
+            </p>
+            <p n="2">2. And, that to this Church Salvation is appropriated: <hi>God daily added to the Church ſuch as ſhould be ſaved.</hi>
+            </p>
+            <p>The Propoſition being ſufficiently pro<g ref="char:EOLhyphen"/>ved, I ſhall, for the greater perſpicuity, prove the Aſſumption gradually, according to the parts into which I divided the Text, And ſhew,</p>
+            <p n="1">1. That the Church of <hi>England</hi> holds Communion with Chriſt and his Apoſtles in <hi>Doctrine.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Anno</hi> 1660.</note>Thoſe diſſenting Miniſters, that preſent<g ref="char:EOLhyphen"/>ed to the Parliament their Reaſons for Re<g ref="char:EOLhyphen"/>formation of the publick Doctrine, <hi>&amp;c.</hi> did aſſure us in the firſt words, that it was far from their thoughts, to oppoſe or diſparage, orthodox Doctrine; a well com<g ref="char:EOLhyphen"/>poſed Liturgy; Rites for decency and or<g ref="char:EOLhyphen"/>der; Ordination of Miniſters; Apoſtolical Epiſcopacy; and due Rules of Diſcipline. I wiſh, that as we have heard the voice of <hi>Jacob,</hi> ſo we had not felt the hands of <hi>Eſau;</hi> for, though the truth of all that they deſired, hath been proved by many Wor<g ref="char:EOLhyphen"/>thies in our Iſrael; yet as St. <hi>Chryſoſtome</hi> ſays, though we bring the Sun-beams in our hands, men will not be perſwaded;
+<pb n="5" facs="tcp:33816:7"/> there doth not want light to convince, but they reſiſt the Spirit of Truth that ſhould convert them. Pray we therefore, That he who promiſed the holy Spirit to them that ask it,<note place="margin">Luk. 11.13.</note> would pour down ſuch plentiful meaſures and operations of it, in<g ref="char:EOLhyphen"/>to the hearts of this people, that as we all profeſs his holy Name, ſo we may agree together, in the truth of his holy Word, and live in unity and godly love.</p>
+            <p>And ſo I begin with the firſt part of the Text, <hi>viz.</hi> The ground and foundation of Apoſtolical Communion, (which is), the Doctrine delivered in the Scriptures of the New Teſtament, wherein the Church of <hi>England</hi> doth hold Communion with Chriſt and his Apoſtles.</p>
+            <p>The things of which the Apoſtles were eye and ear-witneſſes from the beginning of the Goſpel, that word of life,<note place="margin">1 Joh. 1.1.</note> that was ſpoken by the wiſdom of God, atteſted by a voice from Heaven, accompanied by the power of God in ſuch variety of Miracles, is the only infallible foundation of our Faith and Communion; beſide which, we in vain expect any other either guide or ground,<note place="margin">
+                  <hi>Luk. 16.31.</hi> Non opus est revela<g ref="char:EOLhyphen"/>tione, post Evangeli<g ref="char:EOLhyphen"/>um. <hi>Tort.</hi>
+               </note> of equal certainty; for as our Saviour de<g ref="char:EOLhyphen"/>termined concerning <hi>Moſes</hi> and the Pro<g ref="char:EOLhyphen"/>phets, the ſame may be ſaid of Chriſt and his Apoſtles, <hi>If we believe not them, neither will we be perſwaded, thought one ſhould come from the dead.</hi>
+            </p>
+            <p>Yet is it no diſparagement to our preach<g ref="char:EOLhyphen"/>ing,
+<pb n="6" facs="tcp:33816:8"/> or your hearing, that we cannot pre<g ref="char:EOLhyphen"/>face our Sermons, as the Apoſtles did, <hi>That which we have ſeen and heard, declare we unto you:</hi> ſeeing our Saviour hath pronoun<g ref="char:EOLhyphen"/>ced them bleſſed,<note place="margin">Joh. 20.29.</note> (with an Emphaſis), <hi>that have not ſeen, and yet have believed.</hi> The ſpirit of perverſneſs did not dye with <hi>Pha<g ref="char:EOLhyphen"/>raoh,</hi> and the <hi>Jews</hi> of old: There have been little leſs than Miracles wrought in our ge<g ref="char:EOLhyphen"/>neration, but if, as our Saviour intimates there ſhould be Miracles indeed, done in the midſt of us, there are a ſort of Pha<g ref="char:EOLhyphen"/>riſaical perſons, that would oppoſe ſtill.</p>
+            <p>I ſhall therefore take it as granted, that we do believe thoſe things which Chriſt and his Apoſtles have declared unto us in the books of the New Teſtament,<note place="margin">In iis quae apertè in SS. poſita ſunt inve<g ref="char:EOLhyphen"/>niuntur omnia quae continent fidem mo<g ref="char:EOLhyphen"/>reſque vi<g ref="char:EOLhyphen"/>vendi <hi>S. Auguſt.</hi> de Doct. Christ. <hi>2.9. 2 Pet. 3.16.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>St.</hi> Chryſ. <hi>in 2 Theſ. Hom. 3.</hi>
+               </note> and that in them we have the will of God declared unto us, con<g ref="char:EOLhyphen"/>cerning all ſuch things as are neceſſary to our Salvation; that they are a moſt certain and ſafe rule of Faith, able to make the man of God perfect, <hi>throughly furniſhed to every good work,</hi> 2 <hi>Tim.</hi> 2.13. And whereas it may be objected from St. <hi>Peter,</hi> that in them are ſome things hard to be underſtood; I an<g ref="char:EOLhyphen"/>ſwer, that the things that are neceſſary to be known, are but few, and thoſe are ob<g ref="char:EOLhyphen"/>vious to ordinary capacities; and ſuch as are obſcure and difficult, are not neceſſa<g ref="char:EOLhyphen"/>ry; or if there be ſome difficulties that may be thought neceſſary to be explained, then as Diamonds are beſt formed by Diamonds, ſo the Scriptures is beſt expounded by Scrip<g ref="char:EOLhyphen"/>ture.
+<pb n="7" facs="tcp:33816:8"/>
+'Tis St. <hi>Pauls</hi> rule,<note place="margin">Ro. 12.6. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Let him that pro<g ref="char:EOLhyphen"/>pheſieth (i.e.</hi> interpreteth) <hi>the Scripture, propheſie according to the proportion of Faith.</hi> Now the Analogy of Faith is obſerved, when thoſe truths, which are evident and undoubted, like the firſt Principles in other Sciences, be made the rule for reſolving of what is leſs evident,<note place="margin">Inſtituti<g ref="char:EOLhyphen"/>on of a Chriſtian man. Biſhop <hi>Jewels</hi> Apology.</note> and the Scripture is what is leſs evident, and the Scripture is <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt ſeen, as the Sun, by its own light.</p>
+            <p>Yet becauſe there is no truth ſo clear, but ſome unhappy men may perplex, and controvert it, in caſe the wiſdom of God in the Scripture be not thought ſufficient, to put to ſilence the ignorance of fooliſh men<g ref="char:punc">▪</g> the Church of <hi>England</hi> declared at the be<g ref="char:EOLhyphen"/>ginning of the Reformation, her readineſs to ſubmit to the decrees of the four firſt<note n="*" place="margin">Council of <hi>Nice</hi> conſiſting of 318 Biſhops. Of <hi>Con<g ref="char:EOLhyphen"/>stinople</hi> 150. Of <hi>Epheſus</hi> 200. Of <hi>Calcedon</hi> 630. The uni<g ref="char:EOLhyphen"/>verſal practiſe of the primitive Church is the moſt authentic interpre<g ref="char:EOLhyphen"/>ter of Scri<g ref="char:EOLhyphen"/>pture. <hi>K.C.</hi> his Papers to <hi>Hender.</hi>
+               </note> General Councels, and the judgment of the Fathers of the four firſt Centuries. And doubtleſs, they who were neereſt to the lights of the world, could beſt diſcern their Doctrines; many of whom, could ſay of the Apoſtle, as they of Chriſt, <hi>That which we have ſeen and heard,</hi> (from their own mouths and writings), <hi>declare we unto you.</hi> Nevertheleſs, we give not the Councils a power to make new Articles of Faith, but only to explain and inforce the Doctrine of the Holy Scriptures; which is all that thoſe primitive Councels did pretend to; which power is indeed very requiſite for the unity of the Church; becauſe there never was Heretick, or Schiſmatick, but
+<pb n="8" facs="tcp:33816:9"/> did alledg the Scriptures in defence of his opinions.</p>
+            <p>
+               <note place="margin">
+                  <hi>Artic.</hi> 6.</note>O<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Church therefore declares: Firſt, Con<g ref="char:EOLhyphen"/>cerning the holy Scriptures, <hi>viz.</hi> All the Books of the Old and New Teſtament, which are now commonly received by us, that they contain all things neceſſary to Salvation; ſo that, whatſoever is not read in them, nor can be proved out of them, is not required of any one to be believed, as an Article of Faith, or to be thought neceſſary to Salvation.</p>
+            <p>
+               <note place="margin">
+                  <hi>Artic.</hi> 20</note>
+               <hi>Secondly,</hi> Concerning the Authority of the Church, That it may not inſtitute any thing that is contrary to the written Word of God, nor may ſo expound one place of Scripture, that it be made to contra<g ref="char:EOLhyphen"/>dict another; and that it obtrude nothing elſe to be believed as neceſſary to Salva<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <note place="margin">
+                  <hi>Artic.</hi> 21</note>
+               <hi>Thirdly,</hi> As to the Authority of Coun<g ref="char:EOLhyphen"/>cils, it declares, That whatever they decree as neceſſary to Salvation, hath neither ſtrength nor authority, unleſs it may be ſhewn, that it is taken out of the Word of God. Thus far, I make no doubt, but we are agreed.</p>
+            <p>There is yet another Summary of Chri<g ref="char:EOLhyphen"/>ſtian Faith, wherein we hold Communion with the Apoſtles, <hi>viz.</hi> The Apoſtles Creed, of the Original whereof, I think fit to give you this brief account.</p>
+            <pb n="9" facs="tcp:33816:9"/>
+            <p>Our Saviour injoined his Apoſtles to go and diſciple all Nations, baptizing them in the Name of the Father, and of the Son,<note place="margin">Mat. 28.19, 20.</note> and of the Holy Ghoſt; and to teach them to obſerve all things that he ſhould com<g ref="char:EOLhyphen"/>mand them. Now the Apoſtles baptizing for the moſt part, ſuch as were of years of diſcretion, did teach them alſo, <hi>i.e.</hi> did ca<g ref="char:EOLhyphen"/>techize and inſtruct them, in the myſteries of that Faith into which they were bapti<g ref="char:EOLhyphen"/>zed; Thus we find them teaching, that Je<g ref="char:EOLhyphen"/>ſus was the Chriſt, that he was God mani<g ref="char:EOLhyphen"/>feſted in the fleſh,<note place="margin">1 Tim. 3.16.</note> that he died for our Sins, and roſe again for our Juſtification, that he aſcended to Heaven, and that he ſhall come again to judg both the quick and dead;<note place="margin">2 Tim. 4.1. 1 Joh. 5.7.</note> ſo likewiſe the Trinity of Per<g ref="char:EOLhyphen"/>ſons in the unity of the Godhead. Of this Faith it was required, that they which were of diſcretion, ſhould make profeſſion, before their admiſſion to Baptiſm.</p>
+            <p>This was that good Profeſſion which <hi>Timothy</hi> made before many witneſſes; yea,<note place="margin">1 Tim. 6.12.</note> and <hi>Titus,</hi> whom St. <hi>Paul</hi> calls his own Son, according to the common Faith, is ſuppoſed by Biſhop <hi>Davenant</hi> to have made the like Profeſſion.<note place="margin">See Bi<g ref="char:EOLhyphen"/>ſhop <hi>Dave<g ref="char:EOLhyphen"/>nant</hi>'s O<g ref="char:EOLhyphen"/>pinion. <hi>p.</hi> 16.</note> And <hi>Calvin</hi> on <hi>Heb.</hi> 6.2. asks the queſtion, what is Baptiſmal Doctrine, but that of Faith in God, of Repentance, and of Judgment?</p>
+            <p>So that the Apoſtles, having planted ma<g ref="char:EOLhyphen"/>ny Churches before the Scriptures were written, and being (ſhortly after the day
+<pb n="10" facs="tcp:33816:10"/> of <hi>Pentecoſt</hi>) according to their commiſſion, to depart into ſeveral Countries, they did then,<note place="margin">Tradun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> major<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nostri, <hi>&amp;c. Ruffirius</hi> in Sy<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bol.</note> as the Ancients affirm, ſum up the Articles of Chriſtian Faith, and left them as a <hi>depoſitum</hi> in all the Churches which they had planted, to be the ſtandard of incorrupt Doctrine, by which young and old ſhould be inſtructed. Of this we have memorials in moſt of their Epiſtles, which (all know) were not written till after the plantation of thoſe Churches to whom they were writ<g ref="char:EOLhyphen"/>ten. Thus St. <hi>Paul</hi> mentioneth,<note place="margin">Rom. 6.17. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. 1 Cor. 3.10, 11.</note> the Form of Doctrine delivered to the Church at <hi>Rome.</hi> The Foundation laid by him in the Church of <hi>Corinth.</hi> The <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the meaſure of the Rule, which he uſed in preaching of the Goſpel, which by an Em<g ref="char:EOLhyphen"/>phaſis he calls,<note n="*" place="margin">Gal. 6.16. Eph. 2.20 1 Tim. 6.20. 2 Tim. 1.13. Tit. 1.4. 2 Pet. 2.21. Jude v. 3.</note> 
+               <hi>the Canon,</hi> commended to the <hi>Galatians.</hi> And to the <hi>Epheſians,</hi> the Foundation. And to the <hi>Philippians,</hi> the ſame Rule, <hi>i.e,</hi> the one immutable Rule, as <hi>Tertullian</hi> calls the Creed; the <hi>Depoſitum</hi> or Form of ſound words; the common Faith; which places, with others like them, many ancient and modern Divines, do under<g ref="char:EOLhyphen"/>ſtand of the Apoſtles Creed. And 'tis ob<g ref="char:EOLhyphen"/>ſerved, that the moſt primitive Fathers, mentioning the Rule of Faith, do mean ge<g ref="char:EOLhyphen"/>nerally, the Apoſtles Creed; for if they had a Rule of Faith before the Canon of the Scriptures was ſealed, (which was not till St. <hi>Johns</hi> death), what can we ſuppoſe to have been that Rule, beſide the Apoſtles
+<pb n="11" facs="tcp:33816:10"/> Creed. St. <hi>Ignatius</hi> gives us the Subſtance of it, in three of his Epiſtles, commending the conſtancy of thoſe Churches in the un<g ref="char:EOLhyphen"/>alterable Faith. <hi>Irenaeus</hi> ſays,<note place="margin">Ad Smyrn. Philip. Thrall.</note> The Church that is planted throughout the whole World, did receive from the Apoſtles and their Diſ<g ref="char:EOLhyphen"/>ciples, that Faith which is in One God the Father Almighty. <hi>Tertullian</hi> tells us,<note place="margin">De velan<g ref="char:EOLhyphen"/>dis Virg. &amp; contra Prax.</note> of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tres tractatores,</hi> that had commented on it before himſelf. The very uſe of Catechiſing, which is from the Apoſtles days, doth e<g ref="char:EOLhyphen"/>vince, that there were grounds of Chriſtian Religion, by which they were to be inſtruct<g ref="char:EOLhyphen"/>ed. And in one word, whereas the <hi>Niceue</hi> and <hi>Athanaſian</hi> Creeds, are but expoſitions of the Apoſtles, in thoſe Articles that were oppoſed in their days, we may conclude, that it was more ancient than they.</p>
+            <p>I have enlarged my diſcourſe in this par<g ref="char:EOLhyphen"/>ticular, becauſe the uſe of it is generally o<g ref="char:EOLhyphen"/>mitted by divers Perſons, in their gathered Congregations, to whom I commend the o<g ref="char:EOLhyphen"/>pinion of <hi>Calvin,</hi>
+               <note place="margin">
+                  <hi>Inst. l.</hi> 2. <hi>c.</hi> 16. § 18.</note> 
+               <hi>viz.</hi> that by great con<g ref="char:EOLhyphen"/>ſent of the Fathers, it was attributed to the Apoſtles, and made the pulick confeſſion of the Churches from the Apoſtles age. And ſo <hi>Beza,</hi>
+               <note place="margin">On Rom. 12.6.</note> That from the firſt preaching of the Goſpel, it was received as an Epitome thereof. I conclude this, with the reſolu<g ref="char:EOLhyphen"/>tion of our late martyr'd Soveraign,<note place="margin">In his Pa<g ref="char:EOLhyphen"/>pers to <hi>Henderſ.</hi>
+               </note> I ſhall believe, that the Apoſtles Creed was made by them, (ſuch reverence do I bear to the traditions of the Church), until more cer<g ref="char:EOLhyphen"/>tain
+<pb n="12" facs="tcp:33816:11"/> Authors can be found. Now that the Church of <hi>England</hi> hath Communion with the Apoſtles in this part of their Doctrine, appears firſt, In requiring the profeſſion thereof, at Baptiſm<g ref="char:punc">▪</g> 
+               <hi>viva voce,</hi> from them that are of competent age; and from the Sureties of Infants, in their behalf, who are charged to teach it them as ſoon as they are able to learn; and it is plainly expounded in the Church-Catechiſm, and to be ſaid both by Miniſter and People in the daily ſervice of God; and that this Creed, together with that of the Councel of <hi>Nice,</hi> and that of <hi>Athanaſius,</hi>
+               <note place="margin">
+                  <hi>Artic.</hi> 8.</note> are to be received and believed, for they may be proved from moſt certain teſtimonies of Scripture.</p>
+            <p>You ſee now, how the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> doth hold Communion with the Apo<g ref="char:EOLhyphen"/>ſtles in Doctrine, <hi>viz.</hi> in all, and nothing elſe, (not in Fathers, Councils, or Creeds, but what is included in, or by good conſe<g ref="char:EOLhyphen"/>quence is concluded from the Scriptures, a<g ref="char:EOLhyphen"/>greeable to the Analogy of Faith,<note place="margin">
+                  <hi>Jewels</hi> Apol. Proemi<g ref="char:EOLhyphen"/>um. Dr. <hi>Ham<g ref="char:EOLhyphen"/>mond</hi> con<g ref="char:EOLhyphen"/>tra <hi>Blond.</hi>
+               </note> and Judg<g ref="char:EOLhyphen"/>ment of the primitive Fathers and Councils<g ref="char:punc">▪</g> to whoſe Inſtitutions our Church directed as nigh as poſſibly ſhe could, not only he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Doctrine, but publick Prayers, and admini<g ref="char:EOLhyphen"/>ſtration of Sacraments.</p>
+            <p>We do not reject the Scriptures, as the <hi>Enthuſiaſts</hi> do; nor confront their Autho<g ref="char:EOLhyphen"/>rity by Traditions, as the Papiſts; nor by Private Reaſon, as the <hi>Socinians;</hi> nor by pretended Revelations, as the <hi>Anabaptiſts</hi>
+               <pb n="13" facs="tcp:33816:11"/> we do not keep thoſe Treaſures from the people, under the Lock of a ſtrange Lan<g ref="char:EOLhyphen"/>guage, as if the Key of Knowledg were given us, rather to ſhut them up from the people than open them unto them; or as if we were of the opinion of Cardinal * <hi>Ho<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us<g ref="char:punc">▪</g>
+               </hi> that it would be better with the Church,<note place="margin">Tilenus contra Bell. De Verbo Dei, <hi>l. 2. c. 14.</hi> Laicis ſuf<g ref="char:EOLhyphen"/>ficit pictu<g ref="char:EOLhyphen"/>ra pro Do<g ref="char:EOLhyphen"/>ctrinâ. Gratian Decret.</note> if the Scriptures had never been extant; nor are we of <hi>Bellarmine</hi>'s judgment, That if the <hi>Pope</hi> ſhould command Vice and for<g ref="char:EOLhyphen"/>bid Virtue, we ought to obey; contrary to what the Apoſtle ſays, <hi>If I or an Angel from heaven preach any other doctrine, &amp;c.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or doth our Church take authority, to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mpoſe new Articles of Faith, as the Coun<g ref="char:EOLhyphen"/>cil of <hi>Trent</hi> did, a whole dozen at once, teaching for Doctrines the commandments of men, ſuch as the Supremacy and Infalli<g ref="char:EOLhyphen"/>bility of the Pope, of worſhipping Angels and Images, Prayers for the dead, Invoca<g ref="char:EOLhyphen"/>tion of Saints and Angels; the Doctrines of Merits; Purgatory and Pardons;<note place="margin">Col. 2.19</note> theſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>old not the Head, as the Apoſtle ſays. And we equally abhor the Doctrine of the <hi>Soci<g ref="char:EOLhyphen"/>nians,</hi> againſt the Godhead of our Saviour, and of the Holy Ghoſt. The Doctrine of the <hi>Anabaptiſts,</hi> againſt Magiſtrates and Mi<g ref="char:EOLhyphen"/>niſters, ſuch as the Doctrine of Reſiſtance, which <hi>John Goodwin</hi> ſaid was reſerved to be made known in this laſt generation;<note place="margin">Sic ample<g ref="char:EOLhyphen"/>cti oportet, ut nobis in ſacris lite<g ref="char:EOLhyphen"/>ris genera<g ref="char:EOLhyphen"/>liter propo<g ref="char:EOLhyphen"/>ſitae ſunt.</note> All theſe, and whatever elſe are contrary to the Analogy of Faith, the Wiſdom, Juſtice, Goodneſs, and Holineſs of God, his Pre<g ref="char:EOLhyphen"/>cepts
+<pb n="14" facs="tcp:33816:12"/> or Promiſes, ſuch as repreſent him leſs Merciful or Holy than he hath reveal<g ref="char:EOLhyphen"/>ed of himſelf;<note place="margin">
+                  <hi>Artic.</hi> 8.</note> all theſe we reject, becauſe the Apoſtles heard them not from Chriſt, nor any Primitive perſons from the Apoſtles. we declare them not unto you.</p>
+            <p>And after all this, to object the Senti<g ref="char:EOLhyphen"/>ments of private Doctors, contrary to the publick Edicts of the Church, is but a vex<g ref="char:EOLhyphen"/>atious and impertinent quarrel, of ſuch as have nothing elſe to object, as indeed they have not: for it is generally acknowledged, That the Articles of our Church as to mat<g ref="char:EOLhyphen"/>ters of Faith, are agreeable to the Scriptures; inſtead therefore of heaping up conceſſions, I ſhall make this one obſervation, that after our late Reformers had covenanted to re<g ref="char:EOLhyphen"/>form our Church in Doctrine, the Houſe of Lords, who had then the power of admit<g ref="char:EOLhyphen"/>ting all Incumbents to their Benefices, permit<g ref="char:EOLhyphen"/>ted none to be legally inveſted, who had not firſt read and ſubſcribed the Book of Articles, which the Church doth declare, were ſet forth for avoiding of diverſity of Opinions, and eſtabliſhing of Conſent, touching true Religi<g ref="char:EOLhyphen"/>on; they were never intended to contain all Points of Doctrine; as neither doth the Confeſſion of any other Church; and yet this is made the only objection againſt them; for, as to that pretence, of the doubt<g ref="char:EOLhyphen"/>fulneſs of them, becauſe ſome words may have divers ſignifications, it may as well be objected againſt the Scriptures, <hi>in which
+<pb n="15" facs="tcp:33816:12"/> are ſome things hard to be underſtood.</hi>
+               <note place="margin">2 Pet. 3.16.</note>
+            </p>
+            <p>And here it is very ſeaſonable to mind the people alſo, to continue their commu<g ref="char:EOLhyphen"/>nion with the Church in her Apoſtolical Doctrine, in that ſenſe which ſome learned Expoſitors give of it, on <hi>Act.</hi> 4.42. <hi>viz.</hi> in the exerciſe of that Doctrine,<note place="margin">
+                  <hi>Sanctius</hi> in locum.</note> or in hear<g ref="char:EOLhyphen"/>ing the Apoſtles preach; for, if it be the Churches Precept, and the Preachers Pra<g ref="char:EOLhyphen"/>ctiſe, not to teach any thing,<note place="margin">Dr. Ham<g ref="char:EOLhyphen"/>mond.</note> but what is agreeable to the Doctrine of the Old and New Teſtament, and what the ancient Fa<g ref="char:EOLhyphen"/>thers and Biſhops have gathered from that Catholick Doctrine; and if the Miniſters of our Church do frequently, plainly, and ſolidly diſpenſe that food of our Souls; and I may confidently ſay, it is not done better in any part of the Catholick Church,<note place="margin">Artic. Rel. Anno. <hi>1571.</hi> Clerus An<g ref="char:EOLhyphen"/>glicanus stupor mundi. <hi>Joh. 6.68</hi>
+               </note> I may well demand, as St. <hi>Peter</hi> did, <hi>Maſter, whither ſhall we go? thou haſt the words of eternal life.</hi> Did we not prefer the advan<g ref="char:EOLhyphen"/>tages of this life, beyond the means of a better; and make religious duties, an en<g ref="char:EOLhyphen"/>gine to promote temporal deſigns, having mens petſons in admiration <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Jude 16.</note> for lucres ſake; could we be content with <hi>Manna;</hi> and not long for the rank <hi>Onions</hi> and <hi>Fleſh-Pots</hi> of <hi>Aegypt;</hi> and with the Pro<g ref="char:EOLhyphen"/>digal, leave our Fathers houſe, where is Bread enough, to feed with Swine, in ex<g ref="char:EOLhyphen"/>otick and ſtrange Modes of Worſhip; we need not move out of our Tents to have all our neceſſities ſupplied to our comfort
+<pb n="16" facs="tcp:33816:13"/> and ſalvation;<note place="margin">2 Cor. 2.17. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> for as the Apoſtles ſays, <hi>we are not as many that corrupt the word of God,</hi> mixing the waters of <hi>Siloam</hi> that run ſoft<g ref="char:EOLhyphen"/>ly, with the waters of <hi>Marah,</hi> ſtrife and bit<g ref="char:EOLhyphen"/>terneſs; nor as thoſe Sophiſters in 2 <hi>Cor.</hi> 4.2. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that walk in craf<g ref="char:EOLhyphen"/>tineſs, and can make <hi>(quidlibet ex quolibet)</hi> our inventions a rack whereon to wreſt and torture the Scripture, until it ſpeak our own ſenſe; but as of ſincerity, as of God, as in the ſight of God, ſpeak we in Chriſt.</p>
+            <p>It is nothing but a ſoul ſtomach, and a vitiated palate, that makes ſome men to diſreliſh wholeſome food; could we lay a<g ref="char:EOLhyphen"/>ſide all filthineſs, and ſuperfluity of naugh<g ref="char:EOLhyphen"/>tineſs, all wrath and bitterneſs,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am. 1.21.</note> all hypocri<g ref="char:EOLhyphen"/>ſie and prejudice, all pride and vain-glory, and receive with meekneſs the ſincere Milk of the Word, we might have it from the Breaſts of our Mother, that hath born and nouriſhed us hitherto, more plentifully than from all thoſe pretenders, who, like the Harlot in the hiſtory of <hi>Solomon,</hi> ſeek to divide and Murther the Children that are not their own.<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> King. 3.25.</note>
+            </p>
+            <p>What can the Leaders of a people, that cauſe them to err, and ſeparate from a true Church, where all things neceſſary to Sal<g ref="char:EOLhyphen"/>vation may be had, plead in their excuſe? If they ſay,<note place="margin">Animus Schiſmati<g ref="char:EOLhyphen"/>cus in Ec<g ref="char:EOLhyphen"/>cleſiâ Ca<g ref="char:EOLhyphen"/>tholicâ.</note> they preach the ſame Doctrine as we; St. <hi>Cprian</hi> anſwers, that men may be guilty of Schiſm and Diviſion that re<g ref="char:EOLhyphen"/>main in the ſame Faith.</p>
+            <pb n="17" facs="tcp:33816:13"/>
+            <p>
+               <hi>Nobiſcum eſtis in Baptiſmo in Symbolo, in Spiritu autem unitatis, in vinculo pacis, in ipſa Eccleſia Catholica, non eſtis:</hi> The mark of Schiſm, is not ſet on them that oppoſe the Doctrine of the Church, but that make diviſions in, and cauſe ſeparation from the Church.<note place="margin">Rom. 16.17. 1 Cor. 3.4, 5.</note> How ſeverely doth St. <hi>Paul</hi> chide the <hi>Corinthians,</hi> not for following falſe Tea<g ref="char:EOLhyphen"/>chers, but for making factions for true ones, <hi>I am of Paul,</hi> and <hi>I of Apollos,</hi> and <hi>I of Chriſt.</hi> Chriſt himſelf muſt not be pleaded in oppo<g ref="char:EOLhyphen"/>ſition to the Ordinances and Unity of the Church;<note place="margin">Phil. 1.16</note> this were to preach Chriſt out of envy. When men begin to blow the Trum<g ref="char:EOLhyphen"/>pet to Diviſion, and cry, Every to his Tents, they do, <hi>ipſo facto,</hi> proclaim, We have no Portion or Communion with the Church.<note place="margin">Dum con<g ref="char:EOLhyphen"/>venticula ſibi con<g ref="char:EOLhyphen"/>stituunt, teritatis caput atque originem reliquerunt. <hi>S. Cyprian.</hi>
+               </note>
+            </p>
+            <p>Which is the ſecond particular wherein the Communion of our Church with Chriſt and his Apoſtles is maintained, <hi>i.e.</hi> in Go<g ref="char:EOLhyphen"/>vernment, for ſo <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies, a Socie<g ref="char:EOLhyphen"/>ty, or Aſſembly, (Civil or Eccleſiaſtical) <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Body corporate, in which is ſuperiority and ſubordination, and which is governed by certain Laws and Cuſtoms, Penalties and Priviledges, proper to it ſelf; and when this order is obſerved in all Societies, it is ſtrange, if that which makes up the Body of Chriſt ſhould be a Monſter; the Apo<g ref="char:EOLhyphen"/>ſtle
+<pb n="18" facs="tcp:33816:14"/> aſſures us to the contrary, God is not the Author of Confuſion,<note place="margin">1 Cor. 14.33.</note> but of Peace; as in all the Churches of the Saints, which the A<g ref="char:EOLhyphen"/>poſtle alledgeth eſpecially to prove, that there is ſuperiority and ſubordination, e<g ref="char:EOLhyphen"/>ven among the Prophets, <hi>i.e.</hi> the Miniſters of the New Teſtament,<note place="margin">v. 33.</note> The ſpirit of the Prophets are ſubject to the Prophets; when therefore we read of fellowſhip with the Apoſtles, we may not underſtand it of a confuſed parity, either between the Mini<g ref="char:EOLhyphen"/>ſters of Chriſt and his people, as the <hi>Soci<g ref="char:EOLhyphen"/>nians</hi> and <hi>Anabaptiſts;</hi> or of the Miniſters of Chriſt among themſelves, as the <hi>Presby<g ref="char:EOLhyphen"/>terians</hi> imagine, for we may both ſee and hear that the contrary hath been from the beginning. Our Saviour appointed other ſeventy,<note place="margin">Luk. 20.1. Eph. 4.10.</note> which were not of the ſame rank with the Apoſtles. And, when he aſcended, he gave divers offices to continue in his Church; and therefore Chriſt did not only commiſſion his Diſciples, To feed and go<g ref="char:EOLhyphen"/>vern his Church in their own perſons,<note place="margin">Joh. 20.21.</note> but by their Succeſſors. As the Father ſent me, ſo ſend I you, that you may ſend o<g ref="char:EOLhyphen"/>thers. <hi>And l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, I am with you to the end of the world,</hi>
+               <note place="margin">Mat. 28.28.</note> not in their perſons, but in their ſucceſſors. And it will be a very difficult work, for ſome Paſtors to prove ſuch a ſuc<g ref="char:EOLhyphen"/>ceſſion. But not to digreſs: We read, that while the Church of Chriſt was yet a lit<g ref="char:EOLhyphen"/>tle Flock<g ref="char:punc">▪</g>
+               <note place="margin">Act. 15.6. 1 Tim. 3.10.</note> there were Apoſtles, Elders, and Deacons; when that Flock increaſed, and
+<pb n="19" facs="tcp:33816:14"/> the planting and confirming of Churches abroad, called them from their immediate ſuperintendency, they found out fit perſons to whom they derived their own ordinary authority,<note place="margin">
+                  <hi>viz.</hi> For Ordinati<g ref="char:EOLhyphen"/>on and Juriſdi<g ref="char:EOLhyphen"/>ction.</note> for the government of ſuch Chur<g ref="char:EOLhyphen"/>ches as they had planted; St. <hi>James</hi> had his ſucceſſors at <hi>Jeruſalem,</hi> St. <hi>Mark</hi> at <hi>A<g ref="char:EOLhyphen"/>lexandria;</hi> St. <hi>Peter</hi> and St. <hi>Paul,</hi> the one being the Apoſtle of the <hi>Jews</hi> that belie<g ref="char:EOLhyphen"/>ved, the other of the <hi>Gentiles,</hi>
+               <note place="margin">
+                  <hi>Euſebius</hi> l. 3. c. 23.</note> had their ſucceſſors at <hi>Rome;</hi> St. <hi>Paul</hi> being to go into <hi>Macedonia,</hi> left <hi>Timothy</hi> at <hi>Epheſus,</hi> and <hi>Titus</hi> at <hi>Crete,</hi> to ſucceed him in the Go<g ref="char:EOLhyphen"/>vernment of thoſe Churches. The Apoſtle had laboured about the ſpace of three years to ſettle the Church of <hi>Epheſus,</hi>
+               <note place="margin">Act. 20.17.28.</note> for he had planted Elders there, he viſited them, and gave them a charge, to take heed to them<g ref="char:EOLhyphen"/>ſelves, and to their flocks, over which the Holy Ghoſt had made them Overſeers;<note place="margin">Epiſcopi gregis.</note> theſe were thought ſufficient, as long as the A<g ref="char:EOLhyphen"/>poſtle could be near them; but when the Flock multiplied, and the Apoſtle knew he ſhould ſee theſe Elders no more,<note place="margin">Epiſcopus Presbyte<g ref="char:EOLhyphen"/>rorum &amp; gregis.</note> he de<g ref="char:EOLhyphen"/>volved his charge to <hi>Timothy.</hi> Surely he did not make two ſupream officers in that Church; nor if the government of the El<g ref="char:EOLhyphen"/>ders had been according to his mind, would he have given <hi>Timothy</hi> ſo large a Commiſ<g ref="char:EOLhyphen"/>ſion, <hi>Charge ſome,</hi>
+               <note place="margin">1 Tim. 1.2.</note> 
+               <hi>that they preach no other Doctrine.</hi> 1. Here is an inſpection into the Doctrine of the Elders,<note place="margin">Par in pa<g ref="char:EOLhyphen"/>rem non habet im<g ref="char:EOLhyphen"/>perium.</note> who were their preſent Teachers; and what were his charge
+<pb n="20" facs="tcp:33816:15"/> worth, if he had not a Juriſdiction over them.</p>
+            <p n="2">2. <hi>Timothy</hi> was to direct and order the publick Prayers of the Church, <hi>ch.</hi> 2. 1. for in <hi>v.</hi> 18. of <hi>ch.</hi> 1. <hi>This charge I commit unto thee:</hi> What is that charge? <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, firſt of all, That Prayers be made; How made? By the <hi>ex-tempore</hi> con<g ref="char:EOLhyphen"/>ceptions of every private Presbyter? That is no making of Prayers in the Apoſtles ſenſe; for then <hi>Timothy</hi> could have no hand in the making of them; whereas he was to provide, that the Prayers that were u<g ref="char:EOLhyphen"/>ſed in the Church, might be ſuch, as might ſtand with the publick neceſſities of all men, with the welfare of their Governours, and their own reputation and peace, when none of their adverſaries ſhould find any juſt cauſe to accuſe their ſolemn Devoti<g ref="char:EOLhyphen"/>ons.</p>
+            <p>Again, 3. <hi>Timothy</hi> is directed, how to receive accuſations againſt an Elder;<note place="margin">1 Tim. 5.19</note> and the power of receiving accuſations, implies a power to judg and determine of them. Herein, ſaith <hi>Epiphanius,</hi> the Apoſtles ſhews, <hi>Quis ſit Presbyter,</hi>
+               <note place="margin">
+                  <hi>Haer.</hi> 75.</note> 
+               <hi>quis Epiſcopus, cum di<g ref="char:EOLhyphen"/>cit Timotheo, Presbyterum ne objurges.</hi>
+            </p>
+            <p>And, 4. <hi>v.</hi> 20. He hath the power of Ordination committed to him.</p>
+            <p>
+               <note place="margin">Tit. 1.5.</note>
+               <hi>Titus</hi> had the ſame power in <hi>Crete;</hi> To ſet in order the things that were wanting, and to ordain Elders in every City; for many Cities were under his inſpection, and
+<pb n="21" facs="tcp:33816:15"/> many Teachers in thoſe Cities, but none of them had ſuch a power as is commit<g ref="char:EOLhyphen"/>ted to <hi>Titus.</hi>
+            </p>
+            <p>Theſe things are ſo evident, that the Power of Biſhops is not denyed them; on<g ref="char:EOLhyphen"/>ly it is ſaid, They were extraordinary per<g ref="char:EOLhyphen"/>ſons, and it did belong to them, as <hi>Evan<g ref="char:EOLhyphen"/>geliſts.</hi>
+            </p>
+            <p>But firſt, It cannot be proved, that <hi>Ti<g ref="char:EOLhyphen"/>tus</hi> was ſuch a one; and 'tis a very weak proof, to ſay, that <hi>Timothy</hi> was ſuch, be<g ref="char:EOLhyphen"/>cauſe he is bid to do the work of an E<g ref="char:EOLhyphen"/>vangeliſt: But it is acknowledged, that the power and authority which <hi>Timothy</hi> had, he was to commit to others,<note place="margin">2 Tim. 2.2. <hi>Jus Divi<g ref="char:EOLhyphen"/>num.</hi> p. 160.</note> that there might be a perpetual ſucceſſion of govern<g ref="char:EOLhyphen"/>ment; and the <hi>London</hi> Divines do there add, That Apoſtolical Examples for the good of the Church, and which have a perpetual reaſon and equity in them, have the force of a Rule; and by force of this Rule, we infer, that as St. <hi>Paul</hi> ſaw it neceſſary, to derive a power from himſelf to <hi>Timothy</hi> over the Presbyters at <hi>Epheſus; Timothy</hi> might and did propagate it to others ſuc<g ref="char:EOLhyphen"/>ceſſively, for the well-governing the Church of God.</p>
+            <p>The truth of all this is acknowledged, That there was a chief Governour appoint<g ref="char:EOLhyphen"/>ed by the Apoſtles, (we will not contend for the name, whether <hi>Evangeliſt,</hi> or <hi>Prime Presbyter,</hi> or <hi>Superintendent,</hi> but <hi>Biſhop</hi> is the name which the Church hath always
+<pb n="22" facs="tcp:33816:16"/> uſed), to have authority over the Presby<g ref="char:EOLhyphen"/>ters, and that this authority was to be con<g ref="char:EOLhyphen"/>tinued in the Church by ſucceſſion: So <hi>Cal<g ref="char:EOLhyphen"/>vin, <g ref="char:V">Ʋ</g>nus aliquis authoritate &amp; conſilio prae<g ref="char:EOLhyphen"/>fuit,</hi>
+               <note place="margin">On Tit. 1.5.</note> and he doubts not to call ſuch an one a Biſhop.<note place="margin">Instit. l. <hi>4.</hi> c. <hi>3.</hi> Jus Divi<g ref="char:EOLunhyphen"/>num. Oct. <hi>3.</hi> p. <hi>11.</hi>
+               </note> 
+               <hi>Archippus</hi> ſays, he was Biſhop of the <hi>Coloſſians.</hi> Then our Aſſembly grants, that the Primus Presbyter had authority during his life. And <hi>Videlius</hi> aſſures us, of the name as well as the power, for (ſaith he) in the days of <hi>Clemens Roma<g ref="char:EOLhyphen"/>nus,</hi> the diſtinction of Biſhop and Presby<g ref="char:EOLhyphen"/>ter was in uſe. The <hi>Presbyterians</hi> in their Papers to the King in the Iſle of <hi>Wight,</hi> grant, that not long after the Apoſtles times, Biſhops in ſuperiority to Presbyters, are reported to be in the Church of God, by Writers of thoſe times; and the Writers of thoſe times knew what others had ſaid before them. None of the Ancients ever mentioning any other Government, nor complaining of alteration of that which was eſtabliſhed by the Apoſtles; which had it been any other but that of <hi>Epiſc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>pacy,</hi> thoſe Martyrs that laid down their lives for the truth, would not ſo tamely have parted with the Government of the Church, as not to open their mouths in behalf of that, which was the chief Inſtru<g ref="char:EOLhyphen"/>ment of its peace. Can any man conceive, <note place="margin">That the world was fra<g ref="char:EOLhyphen"/>med by the caſual Concourſe of <hi>Atoms</hi> is as pro<g ref="char:EOLhyphen"/>bable.</note> That all the Governours of the Church, ſhould conſpire to alter that Form which they received immediately from the Apo<g ref="char:EOLhyphen"/>ſtles,
+<pb n="23" facs="tcp:33816:16"/> and that preſently after their deceaſe? <hi>Vincentius Lyrinenſis</hi> tells us, this was the practiſe of thoſe primitive times, that by how much any one was reputed more re<g ref="char:EOLhyphen"/>ligious than another, by ſo much the more readily he did oppoſe all Innovations. To conclude, we may ſuppoſe the dignity and power of the Biſhop was not determined by the Apoſtles in every particular, yet the Apoſtles determining that Government in general, as moſt conducing to the unity and peace of the Church; other particular circumſtances, which the exigence of after<g ref="char:EOLhyphen"/>times ſhould require, were under the pow<g ref="char:EOLhyphen"/>er of the Church to appoint them; for the unity of the Church being the end for which government was appointed; the means that are conducing thereunto, being agreed on by the rulers of the Church, are as neceſſary in their kinds, as the Laws appointed by Magiſtrates for the good of the Commonwealth. And on this ground it was, that Schiſmaticks have been ſo ſe<g ref="char:EOLhyphen"/>verely puniſhed in all ages, and their ſin compared to the moſt abominable vices, e<g ref="char:EOLhyphen"/>ven to Idolatry, Sacriledg, Parricide;<note place="margin">Dr. <hi>Ham<g ref="char:EOLhyphen"/>mond</hi> of <hi>Schiſm.</hi>
+               </note> for indeed it produceth all theſe. Avoid di<g ref="char:EOLhyphen"/>viſions, ſaith <hi>Ignatius,</hi> as the beginning of all evils. All this is <hi>Calvin</hi>'s own ſenſe. Whereas it pleaſed not God, to preſcribe particularly what we ought to follow as to his outward Worſhip and Ceremonies, by reaſon, that he foreſaw, ſuch things
+<pb n="24" facs="tcp:33816:17"/> would depend on the condition of the times and that the ſame Form would not agree with all ages; therefore we ought to con<g ref="char:EOLhyphen"/>ſult the general rules which he gave us, for the ſettling of ſuch things as belong to decency and order, as the exigency of the Church ſhall require; and in ſuch caſes, he pronounceth them Schiſmaticks, which raiſe factions and tumults to the dividing of the Church, which (ſaith he) cannot ſubſiſt, but by the rules of its Governours.</p>
+            <p>Theſe conceſſions are good arguments <hi>(ad homines):</hi> But the univerſal practiſe of the Church, by all its members, in e<g ref="char:EOLhyphen"/>very age, and in all the parts of the world, is an argument beyond all contradiction. All the doubt is, what was practiſed by the Church immediately after the Apoſtles age, for of after-times there is no doubt; and as little of the firſt age after the Apoſtles; if we will be convinced by as clear evi<g ref="char:EOLhyphen"/>dences as can be produced for the proof of any Hiſtory,<note place="margin">Quod ubi<g ref="char:EOLhyphen"/>que quod ſemper, quod ab omni<g ref="char:EOLhyphen"/>bus id ve<g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Catholi<g ref="char:EOLhyphen"/>cum.</note> or matter of fact. <hi>Igna<g ref="char:EOLhyphen"/>tius</hi> was contemporary with St. <hi>John,</hi> con<g ref="char:EOLhyphen"/>verſant with ſome of the Apoſtles, one that ſaw Chriſt after his Reſurrection: he wrote ſeven Epiſtles, which are mentioned by <hi>Polycarpe</hi> his contemporary, by <hi>Irenaeus, Origen, Euſebius,</hi> and others; and he crown<g ref="char:EOLhyphen"/>ed all his works with Martyrdom for Chriſt: The Copies of his Epiſtles, which were ſet forth by <hi>Voſſius,</hi> from the Library of <hi>Laurentius Medices,</hi> are by <hi>Biondel</hi> congra<g ref="char:EOLhyphen"/>tulated
+<pb n="25" facs="tcp:33816:17"/> as a great treaſury to the Church: Now nothing is more clear throughout his Writings, than the Superiority of Bi<g ref="char:EOLhyphen"/>ſhops to Presbyters; this made the Pres<g ref="char:EOLhyphen"/>byterians ſo induſtrious to prove, that they were ſpurious Epiſtles, knowing that their cauſe would ſtand or fall with them, (and is nothing yet, how ſacred ſoever, could ſtand in their way), they deal as barba<g ref="char:EOLhyphen"/>rouſly with his works, as the <hi>Romans</hi> did wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h his perſon, accuſe him for a deceiver, and then condemn him to the beaſts. But God, who in all ages of the Church hath taken advantage by the venting of errors to vindicate the truth more clearly, hath by the labours of the learned <hi>Voſſius,</hi> and Dr. <hi>Hammond,</hi> and Dr. <hi>Pearſon,</hi>
+               <note place="margin">Epiſt. ad <hi>Magn.</hi> Epiſt. ad <hi>Trall.</hi>
+               </note> put a gag into the mouths of all gainſayers; he ſays, Nothing ought to be done in the Church without the Biſhop, And they are men of an ill Conſcience that aſſemble without him.</p>
+            <p>
+               <hi>Clemens Romanus</hi> is another Apoſtolical perſon, he was St. <hi>Pauls</hi> fellow-labourer;<note place="margin">Phil. 4.3.</note> his Epiſtle to the <hi>Corinthians</hi> was read in divers Churches, in <hi>Euſebius</hi>'s time; he was Biſhop of <hi>Rome,</hi> and died a Martyr for Chriſt; this man tells us,<note place="margin">Epiſt. ad <hi>Cor.</hi> p. 57.</note> That the Apoſtles foreſeeing that diviſions would ariſe, as Chriſt had foretold, did in their life time eſtabliſh Biſhops;<note place="margin">Can. Apo. <hi>32.</hi>
+               </note> And if any Presbyter ſhall make Conventions without his Biſhop, let him be depoſed.</p>
+            <pb n="26" facs="tcp:33816:18"/>
+            <p>The third witneſs, is <hi>Polycarp,</hi> a Scholar of St. <hi>Johns,</hi> made Biſhop of <hi>Smyrna</hi> by the Apoſtles, that Angel of the Church to whom the Epiſtle is directed, <hi>Rev.</hi> 2.8, 9. where he is commended for his patience, piety, and conſtancy; he was well known to the Heathen, as the Father of the Chriſtians, and dyed a Martyr under <hi>M. Aurelius</hi> and <hi>Lucius Verus.</hi> He begins his Epiſtle with this very diſtinction, <hi>Polycarpe,</hi> and the El<g ref="char:EOLhyphen"/>ders that are with him.<note place="margin">Ad Philip.</note> It is not needful after ſuch evidence, to tell you, that the Biſhops in the Councel of <hi>Galcedon</hi> pro<g ref="char:EOLhyphen"/>nounced it,<note place="margin">
+                  <hi>Act.</hi> 5. <hi>&amp;</hi> 29.</note> a degree of Sacriledg to reduce the Biſhops to the degree of Presbyters; that <hi>Aerius</hi> was proclaimed an Heretick, for denying the diſtinction; for, if ſuch a threefold Cord be broken, whatever can be alledged after them will be accounted but as a Rope of Sand. And a man may with as much modeſty deny, that ever there was an Emperor at <hi>Rome,</hi> ſixteen hundred years ſince, againſt all the Hiſtorians, and publick Records of that Empire, as deny, that there were Biſhops ſhortly after that time in the Chriſtian Church, and all the Chriſtian Doctrine, which in ſome ages hath not been ſo generally acknowledged as its government, may be exploded on the ſame terms. But, as in finding the Head of a River, we cannot be more infal<g ref="char:EOLhyphen"/>libly guided, than by the ſtreams which flow from it; ſo the conſtant ſucceſſion of
+<pb n="27" facs="tcp:33816:18"/> this order of Governours in the Church, will infallibly lead us to the Apoſtles, as the riſe of them; for we cannot find in any age ſince the Apoſtles, that they were inſtituted by any Council or Authority, Civil or Eccleſiaſtick, nor oppoſed by any party until this later age; and therefore we may preſume them to be of Apoſto<g ref="char:EOLhyphen"/>lical Inſtitution.</p>
+            <p>And if this be true, We ought to yeild them that reverence and obedience which is due to the Ambaſſadours of Chriſt, our ſpiritual Guides and Fathers, as the word of God requires. <hi>Obey them that have the rule over you, and ſubmit your ſelves,</hi>
+               <note place="margin">Heb 13.17.</note> 
+               <hi>for they watch for your ſouls.</hi> St. <hi>Ignatius</hi> is great<g ref="char:EOLhyphen"/>ly ſuſpected, becauſe he exacts ſuch ſtrict obedience to the Biſhops: he anſwers for himſelf, with great ſatisfaction to all ſober men:<note place="margin">Epist. ad Philadelp. p. <hi>101.</hi>
+               </note> Though ſome men have ſuſpected me to have ſpoken theſe things, as fore-knowing the diviſions of, divers perſons; yet He is my witneſs for whom I am a priſoner, that I have not been taught them by man, but the Spirit preached it, ſaying theſe things; Do nothing without the Biſhop, keep your fleſh as the Temple of God, love unity, fly di<g ref="char:EOLhyphen"/>viſions; would you know where the Spi<g ref="char:EOLhyphen"/>rit preacheth this? you may read it from the mouth of our Saviour,<note place="margin">Luk. 10.16.</note> 
+               <hi>He that hear<g ref="char:EOLhyphen"/>eth you, heareth me; he that deſpiſeth you, deſpiſeth me; and he that deſpiſeth me, de<g ref="char:EOLhyphen"/>ſpiſeth him that ſent me.</hi> More than this
+<pb n="28" facs="tcp:33816:19"/> 
+               <hi>Ignatius</hi> could not ſay.<note place="margin">De verbis Domini. <hi>Serm. 24.</hi>
+               </note> St. <hi>Auguſtines</hi> note on theſe words is very obſervable, If Chriſt did ſay it to the Apoſtles only, <hi>(he that deſpiſeth you, deſpiſeth me),</hi> then, deſpiſe us as you pleaſe; but if that word of Chriſt doth reſpect us, if he have called us, and cauſed us to ſucceed in their office, then take heed how you do deſpiſe us.</p>
+            <p>I am not about to plead for the ſupre<g ref="char:EOLhyphen"/>macy of Biſhops over Princes, and Magi<g ref="char:EOLhyphen"/>ſtrates; nor for their infallibility, to capa<g ref="char:EOLhyphen"/>citate them for coining a new Creed; but only, for that meek and peaceable ſubmiſ<g ref="char:EOLhyphen"/>ſion, which all Chriſtians, in all the ages of the world until our unhappy generati<g ref="char:EOLhyphen"/>on, have yeilded unto them, as neceſſary for preſervation both of Faith and Love. It was ordained under the Law, That the man that would do preſumptuouſly,<note place="margin">Deut. 17.12.</note> and would not hearken to the Prieſt that ſtandeth to miniſter before the Lord, ſhould be cut off. Did God take care for the Prieſts of the Law only? No doubtleſs, our Saviour hath ſaid as much for the Miniſters of his Goſpel, in his <hi>Dic Eccleſiae;</hi>
+               <note place="margin">Mat. 18.17.</note> 
+               <hi>If he neglect to hear the Church, let him be unto thee as a Heathen, or a Pub<g ref="char:EOLhyphen"/>lican;</hi> and what is the condition of ſuch? they are without God and Chriſt, delivered over to Satan. A ſad condition this, if it be true, and moſt true it is, <hi>Verily, I ſay unto you,</hi> (ſaith Truth it ſelf) <hi>whatſoever ye ſhall bind on earth, ſhall be bound in hea<g ref="char:EOLhyphen"/>ven.</hi> And this is no <hi>Brutum fulmen;</hi> ſuch
+<pb n="29" facs="tcp:33816:19"/> a binding as this may be a prologue to the caſting into utter darkneſs. Theſe then we muſt hear, not with the hearing of the ear only, but of the heart, yeilding obe<g ref="char:EOLhyphen"/>dience to all their good Inſtitutions. <hi>He that knoweth God</hi> (ſaith our Apoſtle) <hi>i.e.</hi> the will and command of God, <hi>heareth us.</hi> Chriſts ſheep will not run after a ſtranger,<note place="margin">
+                  <hi>Mal. 2.7.</hi> Quia An<g ref="char:EOLhyphen"/>gelus Do<g ref="char:EOLhyphen"/>mini Ex<g ref="char:EOLhyphen"/>ercituum.</note> from thoſe Paſtors that are ſet over them by the great Shepherd and Biſhop of their Souls. It was Gods promiſe of old, That the Prieſts lips ſhould preſerve knowledg, and the people ſhould ſeek it at their mouths. Where he hath placed his Or<g ref="char:EOLhyphen"/>dinance, there he hath fixed his Bleſſing.</p>
+            <p>The miſeries that our Nation have en<g ref="char:EOLhyphen"/>dured, in reſpect both of our temporal and ſpiritual welfare, may convince us of our guilt and madneſs, in kicking againſt this divine Ordinance. An Ordinance eſta<g ref="char:EOLhyphen"/>bliſhed by God the Father, the Son, and the Holy Ghoſt;<note place="margin">1 Cor. 12.28. Eph. 4.21 Act. 20.28.</note> to which the divine aſ<g ref="char:EOLhyphen"/>ſiſtance and bleſſing is promiſed; and which by a miracle of mercy hath been reſtored to us, after our long and great confuſions. Whatever may be in the perſons of ſome Biſhops, (as there will be paſſions and fail<g ref="char:EOLhyphen"/>ings in the beſt) certainly there is nothing grievous in the Government, And yet I may ſay, we owe our beſt poſſeſſion to them and their predeceſſors: may they not argue with us,<note place="margin">1 Cor. 9 6</note> as St. <hi>Paul</hi> with his <hi>Corin<g ref="char:EOLhyphen"/>thians, Though I be not an Apoſtle to others,
+<pb n="30" facs="tcp:33816:20"/> yet doubtleſs I am to you, for the Seal of my Apoſtleſhip are ye in the Lord?</hi> By whoſe Miniſtry were we delivered from the dark<g ref="char:EOLhyphen"/>neſs and bondage of our ſpiritual Aegypt? Who ſealed the reformed Doctrine and Worſhip with their blood? Who have been the Bulwarks againſt the impetuous attempts of Popery? We owe the planting, and wa<g ref="char:EOLhyphen"/>tering, and fencing of Gods Vineyard a<g ref="char:EOLhyphen"/>mong us, to the Labours and Learning of our Biſhops; who like ſo many Guardian-Angels take care, not only of the Churches peace in general, but of the ſafety of eve<g ref="char:EOLhyphen"/>ry individual perſon, from his Cradle to his Grave. At his birth, they receive him into Chriſts Church by Baptiſm, and ſolemnly engage him to renounce the De<g ref="char:EOLhyphen"/>vil, <hi>&amp;c.</hi> to believe in Chriſt and ſerve him. As ſoon as he comes to diſcretion, he is cate<g ref="char:EOLhyphen"/>chiſed, and inſtructed in the grounds of Reli<g ref="char:EOLhyphen"/>gion, and thereupon confirmed in the Faith which he was baptized into, by the prayers and impoſition of the hands of the Biſhop, according to the Apoſtolical practiſe;<note place="margin">Heb. 6.1.2</note> then is care taken, that he frequent the publick Service of God, and ſanctifie the Lords day, and other feſtivals, in places conſecrate for that end, that he behave himſelf with due reverence in thoſe Aſſemblies (which are the moſt venerable in the whole world there is Gods word diſtinctly read, deli<g ref="char:EOLhyphen"/>berately expounded, and he is guided in his devotions, by ſuch prayers as the Church
+<pb n="31" facs="tcp:33816:20"/> of God in all ages, as to the matter, have h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld Communion in. If any doubt trou<g ref="char:EOLhyphen"/>ble his mind, he is intreated to repair to his own, or ſome other able Miniſter, for reſolution. He is inſtructed, how to be a fit partaker of the Communion of Chriſts body and blood, and with great earneſtneſs invited to come frequently; if he live in any ſcandalous ſin, he is admoniſhed, ſha<g ref="char:EOLhyphen"/>med, or cenſured, as the offence requires, to reform him, and forewarn others; if he be ſick, 'tis the Miniſters office to viſit him, to examine, inſtruct, confeſs, com<g ref="char:EOLhyphen"/>fort, and pronounce his abſolution, and to ſtrengthen him againſt the fear of Death, by the adminiſtration of the Lords Sup<g ref="char:EOLhyphen"/>per; to commend his departing Soul to God in the publick prayers of the Church; and after death, to ſee that his body be decently buried; and that his laſt Will and Teſtament be duly performed: This is the Biſhops work: And whatever it be to him, it cannot be a grievous burthen to any, but impious and ungovernable per<g ref="char:EOLhyphen"/>ſons, who neither love themſelves, nor their Neighbours, nor the Worſhip of God: Which is</p>
+            <p>The third particular wherein we hold Communion with the Apoſtles, <hi>viz.</hi> in Wor<g ref="char:EOLhyphen"/>ſhip. Now our publick Worſhip conſiſts,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> in the Adminiſtration of the Sacraments, and Prayer: As for the reading and ex<g ref="char:EOLhyphen"/>pounding of the holy Scriptures, which
+<pb n="32" facs="tcp:33816:21"/> makes up the greateſt part of our Litur<g ref="char:EOLhyphen"/>gy, we have ſpoken already.</p>
+            <p>Firſt therefore, Of Baptiſm; which is undoubtedly Chriſts own Inſtitution, and was by the Apoſtles adminiſtred to whole Families.<note place="margin">1 Cor. 1.16.</note> But whether it belong to Infants, as our Church doth hold; and whether it be effectual for the ſalvation of all ſuch In<g ref="char:EOLhyphen"/>fants as being baptized die before they come to the uſe of Reaſon, be according to the Doctrine and Practice of the Apoſtles; muſt be conſidered.</p>
+            <p>To both which, firſt, we apply the words of our Saviour,<note place="margin">Mar. 10.13</note> concerning Infants brought to him for his bleſſing, which he freely gave them; Of theſe, ſaith he (not only of ſuch as theſe are) is the Kingdom of Heaven; and that he meant it of their perſons,<note place="margin">Doctrina quae In<g ref="char:EOLhyphen"/>fautes à Sacramen<g ref="char:EOLhyphen"/>to re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ene rationis prohibet veritati omnium Eccleſia<g ref="char:EOLhyphen"/>rum Apo<g ref="char:EOLhyphen"/>stolicarum adverſa<g ref="char:EOLhyphen"/>tur <hi>Caſ<g ref="char:EOLhyphen"/>ſander</hi> p. <hi>700.</hi> Irenaus <hi>l. 3. c. 30.</hi>
+               </note> is demonſtrated by his bleſſing of them; and if they have right to the bleſ<g ref="char:EOLhyphen"/>ſing of Chriſt, (which is the thing ſignifi<g ref="char:EOLhyphen"/>ed), who can forbid them the Baptiſm of Water, which is the outward ſign. And being baptized, who can deny, that the grace of God through the blood of Chriſt, applied unto them in that Sacrament, ſhould be as effectual for their regeneration and ſalvation, as the tranſgreſſion of <hi>Adam,</hi> for their pollution and condemnation. This opinion of our Church is conſonant to the Apoſtles Doctrine, <hi>Rom.</hi> 5.15, 16, <hi>&amp;c.</hi> the ſenſe whereof <hi>Irenaeus</hi> gives, That which we loſt in <hi>Adam,</hi> we have received in Chriſt.
+<pb n="33" facs="tcp:33816:21"/> This was the ſenſe of the Fathers in the <hi>Nicene</hi> Council, I believe one Baptiſm, for the remiſſion of ſins; and of the Council of <hi>Milevis,</hi> Infants are therefore baptized for the remiſſion of ſins, that what they contracted by generation, may be cleanſed by regeneration. Sound Faith and Do<g ref="char:EOLhyphen"/>ctrine (ſaith St. <hi>Auguſtine</hi>) will never judg any, that come to Chriſt by Baptiſm, to to be excepted from the grace of remiſſi<g ref="char:EOLhyphen"/>on of ſins: <hi>Fulgentius</hi> ſays the ſame:<note place="margin">De fide ad Petrum. Opuſc. Quast. &amp; Reſponſ.</note> and <hi>Beza</hi> as expreſly as our <hi>Rubrick</hi> doth, That Baptiſm doth ſeal to them their intereſt in the Covenant, and in the remiſſion of that ſinning-Sin, (as he calls Original ſin), dying before they have actual Faith. This hath been the judgment of our Church e<g ref="char:EOLhyphen"/>ver ſince the Reformation. In a Book cal<g ref="char:EOLhyphen"/>led, <hi>The Inſtitution of a Chriſtian man,</hi> in the Chapter of <hi>Confirmation.</hi> In the Ho<g ref="char:EOLhyphen"/>mily of the Salvation of Mankind,<note place="margin">
+                  <hi>Anno</hi> 1537. 1547. 1552. <hi>Vindiciae Gratiae Sa<g ref="char:EOLhyphen"/>cramenta<g ref="char:EOLhyphen"/>lis,</hi> on Mat. 19.</note> in the Common Prayer book, the 5th of <hi>Edward</hi> the 6th, and ſo to our own days. The great ob<g ref="char:EOLhyphen"/>jection, of falling from Grace, is clearly an<g ref="char:EOLhyphen"/>ſwered by Biſhop <hi>Davenant,</hi> in his Epiſtle to Mr. <hi>Bedfords</hi> Book. I conclude this with that of <hi>Bucer,</hi> No age affords more Subjects of the Kingdom of Heaven, than that of Infants doth.</p>
+            <p n="2">2. That Baptiſm belongs to Infants, the practice of the univerſal Church ſhews, what was Apoſtolical practice.<note place="margin">
+                  <hi>Epist. ad Fidentium</hi> l. 3. ep. 8.</note> Unto In<g ref="char:EOLhyphen"/>fants, Chriſt became an Infant, ſaith <hi>Irenaeus,</hi>
+               <pb n="34" facs="tcp:33816:22"/> that he might ſanctifie Infants. The Church ſaith <hi>Origen,</hi> received this tradition from the Apoſtles, to adminiſter Baptiſm even to Infants, <hi>l.</hi> 5. St. <hi>Ambroſe</hi> gives this rea<g ref="char:EOLhyphen"/>ſon of it. Becauſe every age is obnoxious to ſin, every age is capable of the Sacra<g ref="char:EOLhyphen"/>ment.</p>
+            <p>
+               <note place="margin">See <hi>Ru<g ref="char:EOLhyphen"/>brick</hi> of private Baptiſm, and <hi>Ca<g ref="char:EOLhyphen"/>non</hi> 30. An. 1604 <hi>De obliga<g ref="char:EOLhyphen"/>tione Cru<g ref="char:EOLhyphen"/>cis, &amp;c. non ect magnopere laborandum.</hi> Beza. Ep. 12<g ref="char:punc">▪</g> ad Angl. Fratres.</note>As for the Ceremony of the Croſs, ſee<g ref="char:EOLhyphen"/>ing our Church declares, that the Children baptized without it, are lawfully and ſuf<g ref="char:EOLhyphen"/>ficiently baptized, if any man be conten<g ref="char:EOLhyphen"/>tious about that, I only ſay as St. <hi>Paul. We have no ſuch cu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tom, neither the Chur<g ref="char:EOLhyphen"/>ches of God.</hi>
+            </p>
+            <p>And ſo we come to the Sacrament of the Lords Supper; another part of our <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> with the Apoſtles; who required, that we ſhould frequently aſſemble, (that did daily, to commemorate the death and ſufferings of our Saviour, to eat and drink his body and blood in a real and ſpiritual manner, to ſtrengthen our Faith in Chriſt, and our Love and Charity to one another. A duty, of ſo much ſweetneſs and ſpiritual delight, of ſuch advantage to our ſpiritual comfort and eternal ſalvation, ſuch a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the joys of Heaven, that our Saviour expreſſeth it,<note place="margin">Luk. 14.15.</note> by eating bread in the King<g ref="char:EOLhyphen"/>dom of God. A duty, ſo ſenſibly cond<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cing
+<pb n="35" facs="tcp:33816:22"/> to the peace of the Church,<note place="margin">1 Cor. 10, 17.</note> uniting all Chriſtians into one body, by eating that Bread; that it is infinitely unaccountable, how any man ſhould be ſo great an ene<g ref="char:EOLhyphen"/>my to himſelf, as to forſake ſuch mercies and bleſſings, and make that an occaſion of Diviſion, which Chriſt hath appointed as a means of reconciliation and brotherly af<g ref="char:EOLhyphen"/>fection; being hereby made one with Chriſt our Head by Faith, and with our Brethren, as members of the ſame body, by love. For, from this frequent Communicating it was, that the primitive Chriſtians thought all their ſufferings too little for Chriſt, who was almoſt daily in this Sacrament hold forth crucified before their eyes for them. From this it was,<note place="margin">St. Cypri<g ref="char:EOLhyphen"/>an. Neſcio an magis laudem eorum sta<g ref="char:EOLhyphen"/>bilem fidem individu<g ref="char:EOLhyphen"/>am Chari<g ref="char:EOLhyphen"/>tatem. Ecce quam parati ſunt pro ſe in<g ref="char:EOLhyphen"/>vicem mo<g ref="char:EOLhyphen"/>ri. <hi>Tert. Apol.</hi>
+               </note> that they loved one ano<g ref="char:EOLhyphen"/>ther to the amazement of the <hi>Gentiles;</hi> be<g ref="char:EOLhyphen"/>ing as ready to lay down their lives for the Brethren, as we are to adventure our lives againſt them.<note n="*" place="margin">Sermon before K. James.</note> Biſhop <hi>
+                  <g ref="char:V">Ʋ</g>ſher</hi> calls this Sacrament. <hi>Ignem Probationis,</hi> becauſe it con<g ref="char:EOLhyphen"/>gregates what is of a like, and ſeparates what is of a different nature; the effects of it make good the compariſon. The Papiſts and Separatiſts would both come to our Pray<g ref="char:EOLhyphen"/>ers and Sermons, but keep at a diſtance from our Communion in this Sacraments <hi>they went out from us, becauſe they were not of us,</hi> and (to follow the Meaphor) they are gone in ſuch heat, that, like the Prieſts of <hi>Mars,</hi>
+               <note n="*" place="margin">In Qu. <hi>Elizabeths</hi> days.</note> whoſe work it was to ſcatter fire in his Temple, their bitter zeal hath blown
+<pb n="36" facs="tcp:33816:23"/> up the coals of contention to ſo great a flame, as hath ſeized on all the Houſes of God in the Land, and it is ſtill driven up and down by divers boutefeu's, (as by ſo many contrary winds <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, which meet in nothing, but as <hi>Sampſons</hi> Foxes in the fire<g ref="char:EOLhyphen"/>brandss at their tails, as that they threaten nothing leſs than the deſolation of Sion. But what fuel hath this bleſſed Sacrament given to this wild-fire. We maintain, neither con<g ref="char:EOLhyphen"/>nor-tranſubſtantiation; we make it not a half-Communion, by with-holding the Cup of Bleſſing; we are ſecured from any pre<g ref="char:EOLhyphen"/>tence of Idolatrous worſhipping the Hoſte, for it is declared, That no adoration is in<g ref="char:EOLhyphen"/>tended,<note place="margin">
+                  <hi>Rubrick</hi> at the end of the Com<g ref="char:EOLhyphen"/>munion.</note> either to the Sacramental Bread and Wine, or to any corporal preſence of Chriſts natural fleſh and blood; only, we are re<g ref="char:EOLhyphen"/>paired, to receive it kneeling, as an ex<g ref="char:EOLhyphen"/>preſſion of our humble and grateful acknow<g ref="char:EOLhyphen"/>ledgment of the benefits of Chriſts death, thereby given to all worthy receivers, and for avoiding ſuch profanation and diſor<g ref="char:EOLhyphen"/>der, as might otherwiſe enſue. Beſides, it is that poſture which Chriſt himſelf taught <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to uſe in prayer;<note place="margin">Luk. 22.41.</note> and when the Mini<g ref="char:EOLhyphen"/>ſter prays, that the Body and Blood of Chriſt, may preſerve our Bodies and Souls to eternal life; let us not ſeparate what Chriſt hath joined; but what the Majeſty of Heaven offers ſo bountifully to ſuch un<g ref="char:EOLhyphen"/>worthy gueſts, let us receive, as the Church requires, meerly, kneeling upon our knees.</p>
+            <pb n="37" facs="tcp:33816:23"/>
+            <p>As for the ſcruple of Communicating with wicked men, I know not to what Con<g ref="char:EOLhyphen"/>gregation we may go, to remove that; and I ſuppoſe, there are few of the Communi<g ref="char:EOLhyphen"/>on of our Church, ſcandalouſly wicked, unleſs (as formerly) their loyalty to the King, and conformity to the Church, make them ſo; as in the moſt ſelect Congregati<g ref="char:EOLhyphen"/>ons. If any among us be more prophane than others, they turn Separatiſts too, by a voluntary neglect of this Sacrament; they dare not approach it, being fore-warned of the danger, and fearing the ſhame of be<g ref="char:EOLhyphen"/>ing rejected by the Miniſter,<note place="margin">Rubick <hi>for the Commu<g ref="char:EOLhyphen"/>nion.</hi> De occul<g ref="char:EOLhyphen"/>tis non judicat Eccleſia.</note> and having his crime ſignified to the Biſhop. But if their offences be not diſcovered; as no Law can take hold of them, ſo no Chriſtian ought to cenſure or avoid them. Every man that diligently examines his own heart and life, may find himſelf guilty of more evil than he knows by moſt of his deſpiſed Brethren; but if they appear worſe than our ſelves, our humility and ſerious preparation will be an amulet againſt infection; ſure I am, Another mans immorality, will be no ex<g ref="char:EOLhyphen"/>cuſe for my irreligion. Charity is that wed<g ref="char:EOLhyphen"/>ding Garment, without which we cannot communicate with God, in this, or in any other Ordinance, in any Congregation what<g ref="char:EOLhyphen"/>ſoever; and one part of Charity is, Not to think evil of our Brethren.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Luk. 18.11.</note> Inſtead therefore, of ſeparating from our Brethren, and praying apart as the <hi>Phariſee,</hi> think<g ref="char:EOLhyphen"/>ing
+<pb n="38" facs="tcp:33816:24"/> too well of himſelf; it will better be<g ref="char:EOLhyphen"/>come us, to ſmite on our Breaſts, and ſay, <hi>God be merciful to me a ſinner,</hi> and as S. <hi>Paul, Of all ſinners the chief.</hi>
+               <note place="margin">1 Tim. 1.15. <hi>Epist. ad Eph.</hi>
+               </note>
+            </p>
+            <p>Make haſte, ſaid holy <hi>Ignatius,</hi> to meet more frequently at the Euchariſt of God, for when ye often come together for this end, the powers of Satan are made fru<g ref="char:EOLhyphen"/>ſtrate.</p>
+            <p>Sure I am Satan hath gotten great pow<g ref="char:EOLhyphen"/>er over us, by our neglect and contempt of it, and the houſe that is ſo divided can<g ref="char:EOLhyphen"/>not ſtand long: We ſhould learn of our enemies,<note place="margin">Davenan<g ref="char:EOLhyphen"/>tii Sen<g ref="char:EOLhyphen"/>tentia.</note> ſaith Biſhop <hi>Davenant,</hi> though we differ in ſome Controverſies, to live in the ſame Communion, the <hi>Thomiſts</hi> and <hi>Scotiſts,</hi> the <hi>Dominicans</hi> and <hi>Jeſuits</hi> differ in far greater points of Doctrine than we do, yet keep the Communion of the ſame Church. It is a ſad conſideration, that not only the Children of this World are wiſer in their Generation than the Children of Light,<note place="margin">The things wherein we agree being many and weighty, ſhould be of greater force to unite us, than the trifles whe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ein we differ, to divide us; it is not as bad with ours, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it was with the Church of <hi>Corinth,</hi> there were many carnal Chriſtians, many groſly ignorant, 1 <hi>Cor.</hi> 33.11.29. Some that denied the Reſurrection, ſome that for love of their Bellies frequented Idolatrous Feaſts. Drunkenneſs was viſible at the Lords Table, Fornication common, and we read of an inceſtuous perſon too, yet he calls them, <hi>The Church of God at Corinth ſanctified in Christ, called to be Saints;</hi> he doth not unchurch them, and perſwade ſeparation, but to reform abuſes, to caſt out the unclean perſon, and purifie themſelves that God might dwell among them, and accept their prayers, which is the laſt part.</note> but Satans Kingdom is leſs divided than that which we all call the Kingdom of Chriſt.</p>
+            <pb n="39" facs="tcp:33816:24"/>
+            <p>God and our Saviour, as well in the New, as in the Old Teſtament, have taught us, that Prayer is a ſpecial part of his Worſhip, when he calleth his Temple and our Oratories,<note place="margin">Iſa. 56.7. Mat. 21.13. <hi>Eccleſia preces ſplendidis eulogiis Deus or<g ref="char:EOLhyphen"/>navit ubi Templum vocavit domum Oraticuis.</hi> Calv. Inſt. l. 3. c. 20. <hi>S.</hi> 29.</note> 
+               <hi>The houſe of Prayer.</hi> And indeed the Glory of God cannot be more highly exalted, nor our neceſſities more certainly relieved by any means, than by humble and devout Prayers.</p>
+            <p>It concerns us therefore, when we ap<g ref="char:EOLhyphen"/>proach the Throne of Grace, to conſider, how in this duty we may ſerve God ac<g ref="char:EOLhyphen"/>ceptably, with reverence and godly fear; which we may do, if we hold Communion with Chriſt and his Apoſtles in this part of the Divine Worſhip.</p>
+            <p>And what their practice was, will ap<g ref="char:EOLhyphen"/>pear, firſt from Chriſts own inſtitution, who preſcribed a form of Prayer to be uſed by his Diſciples, and accordingly they did uſe it, if we believe the Ancients<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on all ſolemn occaſions. The Sacrament of the Lords-Supper being conſtantly celebrated with it. Mr. <hi>Thorndike</hi> tells us that when St. <hi>Paul</hi> asketh,<note place="margin">1 Cor. 14.16.</note> 
+               <hi>How ſhall he that occupieth the room of the unlearned,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<pb n="40" facs="tcp:33816:25"/> (at the Miniſters conſecrating the Euchariſt) at thy giving of thanks, ſay, <hi>Amen;</hi> this <hi>Amen</hi> is to be underſtood of the Concluſion of our Lords-Prayer, then uſed at this Sa<g ref="char:EOLhyphen"/>crament; to the truth of this notion, many of the Ancients bare witneſs,<note place="margin">
+                  <hi>So among the</hi> La<g ref="char:EOLhyphen"/>tins, Gra<g ref="char:EOLhyphen"/>tiarum actio ſig<g ref="char:EOLhyphen"/>nificat, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; <hi>ſaith</hi> Rhenanus <hi>on</hi> Tertullian de Corona Militis.</note> ſhewing that the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is generally taken in this ſenſe, and that our Lords-Prayer was con<g ref="char:EOLhyphen"/>ſtantly uſed at the Celebration of it.</p>
+            <p>
+               <note place="margin">
+                  <hi>Apol.</hi> 2.</note>This is the ſenſe of <hi>Juſtine Martyr,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. The food which was Euchariſtically conſecrated by the Prayer of that word which came from him which our Lord ap<g ref="char:EOLhyphen"/>pointed the Euchariſt to be conſecrated with.<note place="margin">De Orati<g ref="char:EOLhyphen"/>one Domi<g ref="char:EOLhyphen"/>nica.</note> St. <hi>Cyprian</hi> more plainly. So Chriſt taught his Apoſtles, that they ſhould dai<g ref="char:EOLhyphen"/>ly in the Sacrifice of his body dare to ſay, <hi>Our Father.</hi>
+               <note place="margin">See <hi>Caſ<g ref="char:EOLhyphen"/>ſander</hi> p. 39.</note> So St. <hi>Hierome.</hi> Which Prayer Chriſt taught his Apoſtles, that they ſhould daily uſe it in the Sacrifice of his Body. It was the cuſtom of the Apoſtles, ſays St. <hi>Gregory,</hi> to conſecrate the Sacrament with the uſe of the Lords-Prayer only; he means as I ſuppoſe (what <hi>Honorius</hi> doth expreſs) <hi>Super vinum &amp; panem,</hi>
+               <note place="margin">
+                  <hi>In</hi> Gem. Animae. l. <hi>1,</hi> c. <hi>86.</hi>
+               </note> 
+               <hi>&amp;c.</hi> They ſaved over the Bread and Wine, the words which our Lord ſayed, and the Lords-Prayer: Certain it is, that we have Re<g ref="char:EOLhyphen"/>cords of many ancient Liturgi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s uſed in
+<pb n="41" facs="tcp:33816:25"/> ſeveral Churches, in all of which this Pray<g ref="char:EOLhyphen"/>er is inſerted in this very Office; which may argue it was ſo from the Apoſtles practice, how elſe could it prevail in the univerſal Church. It is alſo highly probable, that our Saviour in <hi>Mat.</hi> 18. did enjoyn his Apoſtles the uſe of publick Liturgies,<note place="margin">Mat. 18.19.</note> 
+               <hi>Again, I ſay unto you, &amp;c.</hi> the <hi>Dico</hi> is more than a bare affirmation, it hath the force of an Inſtituti<g ref="char:EOLhyphen"/>on,<note place="margin">See <hi>Came<g ref="char:EOLhyphen"/>ron</hi> in <hi>loc.</hi>
+               </note> (as when it is ſpoken of Governours, <hi>Dixi, dii eſtis</hi>) This is ſaid to the Gover<g ref="char:EOLhyphen"/>nours of the Church, as in the former verſe <hi>viz.</hi> to the Apoſtles then, and to their Succeſſors for the future. What is it that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r Saviour decrees concerning them? That where two of them, any ſmall com<g ref="char:EOLhyphen"/>pany, (according to the Proverbial ſpeech among the <hi>Jews</hi>), where two or three did meet to confer about the Law, there the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ecinah,</hi> that is,<note place="margin">Numerus certus pro incerto.</note> the Divine Preſence was <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the midſt of them), where theſe chief Rulers of the Church do agree, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſhall conſent with heart and voice upon ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re deliberation (for ſo that word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>vice tranſlated by the <hi>Septuagint,</hi>
+               <note place="margin">Gen. 14.3 Hoſ. 6.9.</note> and both ſignifie an Aſſembly met about publick <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fairs) concerning any thing that they ſhall <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>k in their united Prayers, it ſhall be done <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto them; on which place <hi>Calvin</hi> obſerves, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> when the faithful do meet, they are <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ght to joyn in Devotion, and pray in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mmon, not only for the teſtifying the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nity of their faith, (for our publick Li<g ref="char:EOLhyphen"/>turgy
+<pb n="42" facs="tcp:33816:26"/> is part of our faith, and their faith is very uncertain that have no Liturgy, but that God may hear what is asked by the con<g ref="char:EOLhyphen"/>ſent of all; and ſaith <hi>Calvin,</hi> Chriſt doth here honour publick Prayers, with a ſpecial promiſe, that he may incite us to the exer<g ref="char:EOLhyphen"/>ciſe of them; and becauſe it is an ineſtima<g ref="char:EOLhyphen"/>ble bleſſing to have Chriſt Preſident to bleſs our Counſels, and the events of them, this promiſe ſhould be a great encouragement, to aſſemble in a holy and godly manners for whoever either neglecteth the holy Aſſemblies, or ſeparateth himſelf from his Brethren, and behaveth himſelf remiſsly, in preſerving unity, doth hereby ſhew that he hath no eſteem of Chriſts Preſence. This ſpeaks fair for a ſet order of publick Pray<g ref="char:EOLhyphen"/>er in <hi>Calvin</hi>'s opinion. In this ſenſe it is evident St. <hi>Chryſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tom</hi> underſtood this place to which he hath reference in that ſhort Prayer of his, conſtantly uſed in our Liter<g ref="char:EOLhyphen"/>gy, <hi>Almighty God, who haſt given us grace at this time,</hi>
+               <note place="margin">So <hi>Ignati<g ref="char:EOLhyphen"/>us,</hi> If the prayer of one or two pre<g ref="char:EOLhyphen"/>vail for Chriſts Preſence, how much more the prayer of the Biſhop and the whole Church. <hi>Epist. ad Epheſ.</hi>
+               </note> 
+               <hi>with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne accord, to make our common Prayers and Supplications unto thee, and ha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> promiſed, that where two or three are gather<g ref="char:EOLhyphen"/>ed together in thy name, thou wilt grant their requeſts, &amp;c.</hi>
+            </p>
+            <p>St. <hi>Paul</hi> exhorts <hi>Timothy</hi> that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he make it his chief care (as Biſhop that Church of <hi>Epheſus</hi>) to provide that the
+<pb n="43" facs="tcp:33816:26"/> publick Prayers be rightly ordered, that they be ſuch as may anſwer the neceſſities of all mankind, that they may be acceptable to our Rulers, that ſome of them be, for the ob<g ref="char:EOLhyphen"/>taining of good things,<note place="margin">The Prayer for the Emperor in <hi>Tertull. Vitam pro<g ref="char:EOLhyphen"/>lixam impe<g ref="char:EOLhyphen"/>rium ſecu<g ref="char:EOLhyphen"/>rum exer<g ref="char:EOLhyphen"/>citus fortes ſenatum fidelem,</hi> were grounded on this.</note> others for averſion of evil, that we extend our petitions, for the benefit of others; and that we have alſo forms of Thanksgiving to God, for his mercies received: And every ordinary Mi<g ref="char:EOLhyphen"/>niſter is not ſufficient to guide the people in ſuch a ſolemn Office, nor though they were of great abilities, would it conſiſt with that harmony of deſires, and affections, wherein all Chriſtian Congregations ought to joyn. And in this ſenſe the Primitive Chriſtians <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id underſtand the Apoſtles Injunction. <hi>Ignatius</hi> enjoyns the ſame thing, <hi>Meet ye all together in the ſame place,</hi>
+               <note place="margin">Ad Mag<g ref="char:EOLhyphen"/>neſs. <hi>p. 58.</hi>
+               </note> 
+               <hi>let there be one common Prayer, and one mind among you all.</hi> And <hi>Scaliger</hi> tells us, he had feen an an<g ref="char:EOLhyphen"/>cient Liturgy of this pious Martyr.<note place="margin">De Emen<g ref="char:EOLhyphen"/>datione Temporum <hi>l. 7.</hi> Apol. <hi>2.</hi>
+               </note> 
+               <hi>Juſtine Martyr</hi> tells us the practice of the Chriſti<g ref="char:EOLhyphen"/>ans in the ſecond Century, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>We all ſtand up and pray together.</hi>
+            </p>
+            <p>St. <hi>Ambroſe,</hi> and St. <hi>Auguſtine</hi> do both ter<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ifie that the prayer for all eſtates of men uſed in the moſt Primitive times, eſpecially at the Sacrament of the Lords-Supper had its riſe from this injunctioh of St. <hi>Paul</hi> to <hi>Tim<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thy.</hi>
+            </p>
+            <p>Beſides, the Hymn which our Saviour <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Mat.</hi> 26.30. was a known Hymn, in
+<pb n="44" facs="tcp:33816:27"/> which the Apoſtles did bear a part. The Prayer which he uſed on the Croſs, was a prayer of <hi>David,</hi>
+               <note place="margin">Pſal. 22.</note> to ſhew that he did ap<g ref="char:EOLhyphen"/>prove of ſuch prayers wherein we may all joyn. The <hi>Milevitan</hi> Council, did therefore ordain that no other prayers ſhould be uſed in the Church but ſuch as had been peru<g ref="char:EOLhyphen"/>ſed by the moſt prudent of the Church, leſt any thing ſhould be compoſed, either through ignorance, or want of heed, contrary to the faith; in this part of Gods Worſhip eſpe<g ref="char:EOLhyphen"/>cially, they thought it fit,<note place="margin">1 Cor. 14.32. <hi>Valdè pro<g ref="char:EOLhyphen"/>bo.</hi> Epiſt. 87.</note> that the ſpirit of the Prophets ſhould be ſubject to the Pro<g ref="char:EOLhyphen"/>phets. <hi>Calvin</hi> doth greatly approve of a Li<g ref="char:EOLhyphen"/>turgy for the ſame Reaſons.</p>
+            <p>The <hi>Magdeburgenſes</hi> ſay, that (in the third Century,<note place="margin">
+                  <hi>See</hi> Gen<g ref="char:EOLhyphen"/>nadius de Dogm. Eccleſia. <hi>c. 30.</hi>
+               </note> 
+               <hi>Formulas quadam precationum, &amp;c.</hi>) without doubt the Chriſtians had certain forms of Prayers. It is evident therefore, that we are conformable to the Apoſtles in the uſe of ſolemn forms of Prayers; but whether the matter of our Prayers be agree<g ref="char:EOLhyphen"/>able to theirs, is another Inquiry. Doubt<g ref="char:EOLhyphen"/>leſs whatever their Prayers were, they were conſonant to their Doctrine; and in that our Liturgy is conformable: there is nothing in them contrary to our Doctrine; and no<g ref="char:EOLhyphen"/>thing in our Doctrine contrary to that of the Apoſtles, as hath been proved; and it were an eaſie matter to fill the Margent of our Liturgy with ſuch Q<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>otations of Scri<g ref="char:EOLhyphen"/>pture, as do in expreſs words contain, or by clear conſequence confirm, all the Pray<g ref="char:EOLhyphen"/>ers,
+<pb n="45" facs="tcp:33816:27"/> Hymns, and Thankſgivings in that Book. The Apoſtles did publickly uſe our Lords-Prayer, the Creed, the Pſalms of <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> the words enjoyned by our Saviour at the Adminiſtration of both Sacraments, and ſo do we: they read the Scriptures, and ex<g ref="char:EOLhyphen"/>pounded them; they Catechiſed the youn<g ref="char:EOLhyphen"/>ger ſort in the Principles of Religion; ſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> we. They had Prayers, Supplications, In<g ref="char:EOLhyphen"/>terceſſions and giving of thanks for Kings, and their ſubordinate Officers, and for all <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rts and degrees of Men; ſo have we: they ſung Hymns and Praiſes to God in their Congregations, and ſo do we. They had Comminations and threatnings, Cenſures and Excommunication of impenitent and con<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>macious offenders; ſo have we. In a word, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> we ſhould collect all the ancient Litur<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies in the <hi>Greek, Latin, Armenian,</hi> and <hi>Aethiopick</hi> Churches, and extract the moſt <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lid, pious parts of Devotion out of them <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it would appear, that as we have omitted in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rs all that was vain and ſuperſtitious; ſo we want nothing that is pious, or profitable; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>any of the reformed Churches do come <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ar ours, but none are yet equal.</p>
+            <p>We do not m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tter out our Prayers in an unknown Tongue, or perſwade our people, That ignorance is the mother of Devotion; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which is as unprofitable, tumble out a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ltitude of words which have none, or no <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>od ſignification; as if we were fallen to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at age which <hi>Hippolytus</hi> an ancient Biſhop
+<pb n="46" facs="tcp:33816:28"/> and Martyr ſpake of, <hi>viz.</hi> the days of Anti<g ref="char:EOLhyphen"/>chriſt, wherein Liturgy ſhould be extinct, we do not ſill our Prayer-book with <hi>Ave-Maries,</hi> A Ladies Pſalter, Dirges, and Pray<g ref="char:EOLhyphen"/>ers for the Dead. Invocations of Angels and Saints, that never had a being; we r<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d not Legends and ridiculous ſtories<g ref="char:punc">▪</g> ſuch as may rather excite laughter or diſdain, than Devotion. In a word we have not their forms for exorciſing of Divels, Baptiſing of Bells and Garments, their Crucifixes, Beads<g ref="char:punc">▪</g> and <hi>Agnus Dei's.</hi> Ours is a reaſonable and Apoſtolical Service, wherein the moſt learned of the Proteſtant Churches abroad,<note place="margin">Rivet, Grotius, <hi>and</hi> Bo<g ref="char:EOLhyphen"/>chartus, Cranmer, <hi>Arch B.</hi> Goodrick, <hi>Biſhop of</hi> Ely. Skip <hi>of</hi> Here<g ref="char:EOLhyphen"/>ford Thirl. by <hi>of</hi> West Day <hi>of</hi> Chechester. Holbick <hi>of</hi> Lincoln. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>idley <hi>of</hi> Rochester. <hi>Dr.</hi> Cox, <hi>Almoner.</hi> Tarler, <hi>Dean of</hi> Lincoln. Haynes <hi>of</hi> Exeter. Redman <hi>of</hi> Westmin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter Robinſon, <hi>Arch De<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>con of</hi> Leicester.</note> have ma<g ref="char:EOLhyphen"/>nifeſted their readineſs to hold Comm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nion with us. Some reſpect we ſhould ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>w in for the ſake of its firſt Authors, thoſe Bi<g ref="char:EOLhyphen"/>ſhops and Confeſſors that were the Compi<g ref="char:EOLhyphen"/>lers of it; ſome of which died in defence of it, as others ſince in oppoſition to it. The world may judg which deſerved b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the Proteſtant Religion. A work, which in that age, moſt men called a work of G<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, as Mr. <hi>F<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x</hi> reports. When it was com<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<g ref="char:EOLhyphen"/>led, the Arch-Biſhop turns it into <hi>I</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and ſends it to <hi>Martin Bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er,</hi> who <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this approbation of it, that it was general<g ref="char:EOLhyphen"/>ly contained in the word of God, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> repugnant to it, if rightly under <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>: Af<g ref="char:EOLhyphen"/>ter
+<pb n="47" facs="tcp:33816:28"/> this, it was amended;<note place="margin">Biſhop <hi>Ridley.</hi> P. <hi>Martir. Bucer.</hi> So did the Univerſi<g ref="char:EOLhyphen"/>ty of <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> ſince.</note> ſo as Arch-Bi<g ref="char:EOLhyphen"/>ſhop <hi>Cranmer</hi> undertook, by the leave of Q<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n <hi>Mary,</hi> that he and ſome others would defend it againſt all the Papiſts in <hi>England.</hi> Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Proteſtants, that fled to <hi>Geneva</hi> and <hi>Franckfort</hi> in thoſe days, kept their own Liturgy, rather then <hi>Calvins,</hi> until <hi>Knox</hi> began to oppoſe it; of which when Mr. <hi>C<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>dal</hi> told Biſhop <hi>Ridley,</hi> the day before his martyrdom, I wonder, ſaith the Biſhop, Mr. <hi>K<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>x</hi> ſhould at this time, ſet himſelf againſt the poor Proteſtants of <hi>England,</hi> and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd fault with their Service Book, wherein though his wit may find ſome<g ref="char:EOLhyphen"/>thing to cavil at, he ſhall never be able to and matter of juſt exception; as if any thing were therein contained, contrary to the word of God. But Mr. <hi>Calvin,</hi> who had commended the uſe of a Form to the Lord Protector, when he ſaw this, though he had offered to aſſiſt,<note place="margin">Tolerabi<g ref="char:EOLhyphen"/>les inep<g ref="char:EOLhyphen"/>tias.</note> yet not being one of the Compoſers, conf<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>res it, to contain ſome trifles which yet were tolerable; and in truth, there <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſuch things in it, as Prayers for <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Extream Uncti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> In <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>this</hi> Raign, it is <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> again <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> inquiry to the objections, the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſo differ,<note place="margin">The Par<g ref="char:EOLhyphen"/>liament ſuppreſ<g ref="char:EOLhyphen"/>ſed the Admoni<g ref="char:EOLhyphen"/>ons, and impriſon<g ref="char:EOLhyphen"/>ed the Authors.</note> ſome <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> againſt, and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> former allow<g ref="char:EOLhyphen"/>ed, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of alter<g ref="char:EOLhyphen"/>ing <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to be not for the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the
+<pb n="48" facs="tcp:33816:29"/> Liturgy. But this which was have often at<g ref="char:EOLhyphen"/>tempted was effected at laſt, it was pluckt up root and branch, not ſo much as our Lords Prayer ſpared. And this is no new thing, there ever have been, and will be, unquiet ſpirits, to diſturb the ſervants of God, in nothing more than their publick devotions. St. <hi>Auguſtine</hi> complained of this in the <hi>Milevitane</hi> Council, where were two hundred Biſhops,<note place="margin">Can. <hi>12.</hi> Tom. <hi>8.</hi> p. <hi>32.</hi> Ep. <hi>93, 94.</hi> De bono Perſev.</note> how, That not only the Prayers of the Church, but the Lords Prayer was deſpiſed by the <hi>Donatiſts<g ref="char:punc">▪</g>
+               </hi> of whom he ſays, <hi>(Tunc deſinent dici fra<g ref="char:EOLhyphen"/>fres noſtri, cum deſierint dicere Pater noſter),</hi> he would no longer own them for his Brethren, that would not join with him, to ſay, <hi>Our Father, &amp;c.</hi> Upon which, that Council decrees, that no Prayers ſhould be publickly uſed, but ſuch as were appro<g ref="char:EOLhyphen"/>ved by the Synod. But St. <hi>Auguſtine</hi> meek<g ref="char:EOLhyphen"/>ly intreats them, not only to hear the Ser<g ref="char:EOLhyphen"/>mons, but to conſider and ponder the pub<g ref="char:EOLhyphen"/>lick Prayers, which ſays he, the Church had, and will always have, to the end of the world.</p>
+            <p>
+               <note place="margin">Bonaſus Vapulans.</note>We may the leſs wonder therefore, that the Prayers of our Church are deſpiſed, when the ſame perſons cannot be reconci<g ref="char:EOLhyphen"/>ciled to the Lords Prayer; we might have hoped, that after ſo many ſevere correcti<g ref="char:EOLhyphen"/>ons, men would have grown ſober, and re<g ref="char:EOLhyphen"/>pented of their former hard and ungodly ſpeeches: But we ſee a late Apologiſt for
+<pb n="49" facs="tcp:33816:29"/> the Non-conformiſts, in a Book written againſt Mr. <hi>Durel</hi> ſteps forth, like another <hi>Goliah,</hi> to defye, not only the hoſt, but in a manner the God of Iſrael; what elſe mean theſe horrid expreſſions againſt the Lords Prayer; I would not have them cenſured (ſays this tender-hearted man) that cannot get leave of themſelves, to uſe it as a Prayer, eſpecially when they have prayed largely before, for themſelves and others.</p>
+            <p>Do ye not perceive, That it is the long Prayers of theſe Phariſees, that like <hi>Pha<g ref="char:EOLhyphen"/>raohs</hi> lean Kine, devour all the fat Sacrifices of the Church? Did not theſe men ſuppoſe their own prayers, as much better as they are longer than that of our Saviour, they could not have the impudence to lay it aſide as impertinent and uſeleſs, in com<g ref="char:EOLhyphen"/>pariſon of their own.</p>
+            <p>The primitive Church had frequent pray<g ref="char:EOLhyphen"/>ers five times in a day,<note place="margin">
+                  <hi>S.</hi> Cyprian Kul<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> tole<g ref="char:EOLhyphen"/>rantiam inſolenti<g ref="char:EOLhyphen"/>us negant veritati, quam qui erroribus ſuis ſaepe pestilentiſ. ſimis po<g ref="char:EOLhyphen"/>stularunt obnixiſſi<g ref="char:EOLhyphen"/>mi. <hi>Capel.</hi> Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ. <hi>41.</hi> cont. <hi>Belg.</hi>
+               </note> yet the Lords Pray<g ref="char:EOLhyphen"/>er was always added. <hi>Tertulian</hi> calls it, <hi>legitimam Orationem,</hi> as if all other prayers without it were not duly performed. But theſe men muſt by no means be cenſured, much leſs reſtrained; they may by their importunity, as the Sons of <hi>Zerviah,</hi> be too ſtrong for <hi>David,</hi> and get a toleration for ſuch practices, as themſelves have formerly condemned for intolerable; yet will not they grant a toleration to our Lords Prayer, al<g ref="char:EOLhyphen"/>though Chriſts command, and the practiſe
+<pb n="50" facs="tcp:33816:30"/> of the Apoſtles, and Apoſtolical men, and the joint-agreement of the univerſal Church do urge it, theſe good men cannot get leave of themſelves, <hi>i. e.</hi> of the ſpirit of pride and oppoſition which poſſeſſeth them; methinks, they ſhould not deal more barbarouſly with it than the <hi>Turks,</hi> who afford it a reſpect<g ref="char:EOLhyphen"/>ful remembrance in their <hi>Alcaron.</hi> But I am injoined, not to cenſure them. Let them be ſtill reputed, Champions of the Good Old Cauſe, Sworn Enemies to Epiſcopacy and Liturgy; but for humble and ſound Chriſtians. I ſhall not eſteem them, until they can get leave of themſelves, To uſe the Lords Prayer as a Prayer. He adds another affront —<hi>Moſt plain it is, that our Saviour made this Prayer for his Diſciples, while they were Mem<g ref="char:EOLhyphen"/>bers of the</hi> Jewiſh <hi>Church, and before he had ſent the Spirit of Truth to lead them into all truth; let it therefore be conſidered, whether we be not ordinarily to expreſs our ſelves, in a dialect more ſuitable to the New Teſtament diſpenſation, than is uſed in the Lords-Prayer.</hi> To what deſperate opinions and practices doth the ſpirit of pride and faction hurry thoſe that are once poſſeſſed with it!<note place="margin">Neſcio quomodo nil tam abſurde dici potest quod non dicatur ab aliquo. P. <hi>Cic.</hi> de Divinat. <hi>l. 2.</hi>
+               </note> We have heard of one, that would correct the <hi>Magnificat;</hi> and <hi>Ir<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>naeus</hi> tells of ſome, that called themſelves, <hi>Emendatures Apoſtolarum,</hi> but this man atttempts more than ever <hi>Al<g ref="char:EOLhyphen"/>phonſus</hi> imagined; to amend the Lords Pray<g ref="char:EOLhyphen"/>er. He muſt certainly be a man of extraor<g ref="char:EOLhyphen"/>dinary gifts, that can pray ordinarily, in a
+<pb n="51" facs="tcp:33816:30"/> more Evangelical dialect, than our Saviour could. How went the Spirit of our Lord from him, when he dictated this Form, that it ſhould ſo viſibly differ from the reſt of the New Teſtament; and what cloven tongues, and fiery inſpiration have they, that can ſo far exceed this deſpicable pray<g ref="char:EOLhyphen"/>er: St. <hi>Cyprian</hi> ſays, <hi>Quae poteſt eſſe magis ſpiritualis Oratio, quem quae verè a Chriſto da<g ref="char:EOLhyphen"/>ta, a quo etiam Spiritus Sanctus miſus;</hi> and I am of his mind, that there can be no pray<g ref="char:EOLhyphen"/>er more ſpiritual than that which was made by him from whom the Holy Spirit is ſent. And the learned <hi>Grotius</hi> tells us, <hi>Ad hunc Spiritum impetrandum, praecipue directa eſt iſta precandi formula,</hi> it is that Dove, in whoſe Form the Holy Spirit doth frequently deſ<g ref="char:EOLhyphen"/>cend. But as Dr. <hi>Hammond</hi> obſerved,<note place="margin">
+                  <hi>Paraneſis</hi> p. 15.</note> All the <hi>Topicks</hi> of Hell have been raked, to find Arguments againſt it, but there can be found none, to warrant the diſuſe of this prayer, beſides the indiſpoſition of ſuch men as theſe to uſe it, their want of humility and chari<g ref="char:EOLhyphen"/>ty, would turn it into an imprecation againſt themſelves, and therefore it is too big for their mouths. But I wonder, by what Spirit of Divination it was revealed, that this prayer was made for the Diſciples, whilſt Members of the <hi>Jewiſh</hi> Church; of St. <hi>John</hi> it is ſaid, that he was <hi>fibula utriuſque Legis,</hi> a middle perſon between both Churches, yet were his Diſciples diſtinguiſhed from the <hi>Jewiſh,</hi> and when Chriſts Diſciples askt this prayer of
+<pb n="52" facs="tcp:33816:31"/> their Maſter, it was to diſtinguiſh them from the Diſciples of <hi>John.</hi> And if the time be obſerved in Saint <hi>Luke,</hi> (for it was twice preſcribed), you ſhall find the uſe of it, peremptorily in<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oined by our Sa<g ref="char:EOLhyphen"/>viour, a good while after that he had taken upon him the publick Miniſtry of the Goſ<g ref="char:EOLhyphen"/>pel; and 'tis unlikely, that he would now build up the <hi>Jewiſh</hi> Synagogue,<note place="margin">
+                  <hi>Luk.</hi> 4.18.</note> which he came to deſtroy. It is true indeed, that our Saviour, being the chief Corner-ſtone, that ſhould join <hi>Jews</hi> and <hi>Gentiles</hi> in one Church, did make uſe of ſuch expreſſion in his Doctrine, and ſome ſuch Rites in his Inſtitutions, as were at that time fami<g ref="char:EOLhyphen"/>liarly known and practiſed among the <hi>Jews.</hi> And ſo <hi>Grotius</hi> obſerves, that in this pray<g ref="char:EOLhyphen"/>er is collected whatever was commendable in the prayers of the <hi>Jews.</hi>
+               <note place="margin">In <hi>Mat.</hi> 6.</note> As alſo in our Sa<g ref="char:EOLhyphen"/>viours admonitions, he makes uſe of Pro<g ref="char:EOLhyphen"/>verbial ſentences then in uſe: So far was the Lord of the Chriſtian Church, from af<g ref="char:EOLhyphen"/>fecting any unneceſſary novelty. However, if we conſider the ſenſe of it there is no peti<g ref="char:EOLhyphen"/>tion,<note place="margin">
+                  <p>
+                     <hi>A moſt compre<g ref="char:EOLhyphen"/>henſive Form of Prayer, ſo the</hi> Dire<g ref="char:EOLhyphen"/>ctory.</p>
+                  <p>
+                     <hi>And</hi> Calvin, l. <hi>3.</hi> c. <hi>20.</hi> § <hi>34.</hi> Quicquid expetere licet, quicquid in rem n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>stram conducit, quicquid postulare neceſſe est. <hi>and</hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</p>
+               </note> that any Chriſtian needs to make, but it is included in one of thoſe heads, as the <hi>Analyſis</hi> and Comments of learned men upon it do abundantly evince.</p>
+            <pb n="53" facs="tcp:33816:31"/>
+            <p>To conclude this part: You ſee the an<g ref="char:EOLhyphen"/>cient Diſciples were ſo humble, as to deſire their Lord to teach them to pray: Our new Apoſtles can teach their Lord to pray; not only in a dialect more ſuitable to the Goſpel, but in the matter leſs Legal and Jewiſh. No wonder if they ſcorn our Communion; they are fit for the Communion of <hi>Hacket,</hi> and him that gave God thanks, that he had forgotten the Lords Prayer: As for me, I will yet pray againſt ſuch impieties, as old <hi>Jacob</hi> did for <hi>Simeon</hi> and <hi>Levi, O my ſoul,</hi>
+               <note place="margin">Gen. 49.6.</note> 
+               <hi>come not thou into their ſecret, unto their Aſ<g ref="char:EOLhyphen"/>ſembly mine Honour, be not thou united, for in their anger, they</hi> not only <hi>ſlaughter men,</hi> but even crucifie afreſh the Lord of Life, and put him to open ſhame; <hi>and in their ſelf-will, they</hi> do not <hi>dig down walls,</hi> and ſuper-ſtru<g ref="char:EOLhyphen"/>ctures, but dig up the very foundations of the Church of God.</p>
+            <p>And now it is high time, to betake our ſelves to a better Communion, which rea<g ref="char:EOLhyphen"/>dily offers it ſelf, in the laſt part of the Text.</p>
+            <p n="3">3. The excellency of this fellowſhip: <hi>And truly, our fellowſhip is with the Father, and with his Son Jeſus Chriſt.</hi>
+            </p>
+            <p>But having met with ſo much boldneſs lately, it cannot be impertinent, to cauti<g ref="char:EOLhyphen"/>on you here, that when you hear of fellow<g ref="char:EOLhyphen"/>ſhip, you do not preſently think, of an ir<g ref="char:EOLhyphen"/>reverent familiarity with your heavenly Fa<g ref="char:EOLhyphen"/>ther.
+<pb n="54" facs="tcp:33816:32"/> 
+               <hi>For if I am a Father,</hi> ſaith he, <hi>where is mine honour?</hi>
+               <note place="margin">Mal. 1.6.</note> That is, expreſs and mani<g ref="char:EOLhyphen"/>feſt it in your humble behaviour. Gods gracious condeſcention to us, will not ex<g ref="char:EOLhyphen"/>cuſe our unmannerly contempt of him. He takes away the greateſt ornament from Re<g ref="char:EOLhyphen"/>ligious Worſhip that takes away reverence from it.<note place="margin">Maximum ex amici<g ref="char:EOLhyphen"/>tia tollit ornamen tum qui tollit vere<g ref="char:EOLhyphen"/>cundiam. <hi>Cicero.</hi>
+               </note> Earthly parents expect to have their bleſſing asked by their Children on their knees, and Chriſt did ſo addreſs him<g ref="char:EOLhyphen"/>ſelf to his Father. That Commandment that forbids us to bow down and worſhip falſe Gods, enjoyns us to bow down in the Worſhip of the true God. <hi>David</hi> requires it more expreſsly,<note place="margin">Pſ 59.6.</note> 
+               <hi>O come let us worſhip and fall down, and kneel before the Lord our Maker.</hi> As it is our priviledg to walk with God, ſo 'tis our duty to walk humbly with him.</p>
+            <p>And being thus prepared we may have <hi>fellowſhip with the Father, &amp;c. For thus ſaith the high and lofty One that inhabiteth Eternity,</hi>
+               <note place="margin">Iſa. 57.15.</note> 
+               <hi>whoſe name is holy; I dwell in the high and holy place, with him alſo that is of a humble and contrite ſpirit.</hi> This God promiſed, when he firſt gave the Law by <hi>Moſes,</hi> and was ſerved at an earthen Altar. <hi>In all places, where I ſhall record my name,</hi>
+               <note place="margin">Ex. 20.24</note> 
+               <hi>I will come unto thee,</hi>
+               <note place="margin">2 Chron. 7.15.</note> 
+               <hi>and I will bleſs thee.</hi> And when <hi>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lo<g ref="char:EOLhyphen"/>mon</hi> had with great magnificence built a Houſe for God, and dedicated it to his Wor<g ref="char:EOLhyphen"/>ſhip; <hi>Now</hi> ſaith God) <hi>mine eyes ſhall be open, and my heart attend unto the prayer that is
+<pb n="55" facs="tcp:33816:32"/> made in this place; and my eyes and my heart ſhall be there perpetually.</hi> Said God theſe things for the ſake of the Altar of earth, or of <hi>Solomons</hi> Temple? No, but God had recorded his Name there, and there he was publickly invocated, by the united Prayers of his People. And therefore Chriſt re<g ref="char:EOLhyphen"/>neweth the ſame promiſe<g ref="char:punc">▪</g> 
+               <hi>Where two or three are gathered together in my Name,</hi>
+               <note place="margin">Mat. 18 20.</note> 
+               <hi>there am I.</hi> And there he hath promiſed his perpetual Preſence, <hi>Lo, I am with you al<g ref="char:EOLhyphen"/>ways to the end of the world.</hi>
+               <note place="margin">Mat. 28.</note> And is not the world well altered with ſinful men, ſince the time of Gods appearing upon <hi>Sinai, Where was blackneſs and darkneſs, and tempeſt, and the ſound of a trumpet, and the voice of words, which words they that heard, intreated that the word ſhould not be ſpoken to them any more; A ſight ſo terrible, that it made Moſes exceedingly fear and quake. But we are come to Mount Sion, &amp;c. and to Jeſus the Mediator of the new Covenant, and to the blood of ſprinkling that ſpeaketh better things than that of Abel.</hi> It is ſaid of Iſrael, <hi>What Nation is ſo great, who hath God ſo nigh!</hi>
+               <note place="margin">Deut. 4.7.</note> (this makes a Nation truly great to have God nigh them) <hi>as the Lord our God is near unto us, in all that we call upon him for.</hi> A great priviledg this is; yet not ſo great as that which we have by Chriſt, in whom as the Apoſtle ſays, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Epheſ. 1.6</note> God hath made us his chief favourites, and encou<g ref="char:EOLhyphen"/>rageth us by the mediation of our great
+<pb n="56" facs="tcp:33816:33"/> high Prieſt, to come <hi>boldly unto the Throne of Grace;</hi>
+               <note place="margin">Heb. 4.14</note> and hath promiſed that we ſhall obtain mercy, and find grace to help at a time of need. And what ſurer pledg can we have, of Gods conſtant favour, than that which the Apoſtle mentioneth. <hi>He that ſpared not his own Son,</hi>
+               <note place="margin">Rom. 8.32.</note> 
+               <hi>but delivered him up for us all, how ſhould he not with him, freely give us all things.</hi> We may ſay therefore with a filial confidence,<note place="margin">Iſa. 63.16</note> Doubtleſs thou art our Father, a Father that knows all our wants and weakneſſes, and ſpareth us as a Father ſpareth the Son that ſerveth him. <hi>Nemo tam Pater,</hi>
+               <note place="margin">Inter De<g ref="char:EOLhyphen"/>um &amp; bo<g ref="char:EOLhyphen"/>nos homi<g ref="char:EOLhyphen"/>nes aunci<g ref="char:EOLhyphen"/>tia quae<g ref="char:EOLhyphen"/>dam est Amicitiam dico? imo receſſitu<g ref="char:EOLhyphen"/>do. <hi>Sen. Luk. 11.13.</hi>
+               </note> 
+               <hi>tam pius nemo.</hi> Our Savi<g ref="char:EOLhyphen"/>our would have us gueſs at Gods com<g ref="char:EOLhyphen"/>paſſions towards us, by ours to our own Children: <hi>If ye that are evil, know how to give good things to your Children, how much more ſhall your heavenly Father give the holy Spirit to them that ask him?</hi> What nearer Communion can there be? He hath already given us his Son; he is daily pouring down his ſpirit, and only reſerves himſelf for our everlaſting reward.</p>
+            <p n="2">2. And of this we may be the better aſſured by the communion that we have with his Son Jeſus Chriſt. With whom our <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">2 Cor. 6.14.</note> a mutual communicati<g ref="char:EOLhyphen"/>on and participation. He aſſumed our nature, and infirmities, and ſo knows our weak<g ref="char:EOLhyphen"/>neſſes and imperfections, and will not ſuf<g ref="char:EOLhyphen"/>fer us to be tempted above what we are able. Yea, he hath taken on him all our
+<pb n="57" facs="tcp:33816:33"/> ſins, and made full ſatisfaction for them: <hi>He is of God, made unto us wiſdom, righteouſneſs,</hi>
+               <note place="margin">1 Cor. 1.30.</note> 
+               <hi>ſanctification, and redemption;</hi> not by way of imputation only, as a Cloak to cover our iniquities, but of real efficacy, purging our Conſciences from dead works, delivering us from the power of Satan, renewing his own Image upon us, that we may be par<g ref="char:EOLhyphen"/>takers of the Divine Nature, and out of his fulneſs receive Grace for Grace. And thus will Chriſt be the Saviour of his body, ſan<g ref="char:EOLhyphen"/>ctifying and conforming it to himſelf,<note place="margin">Eph. 5.23</note> pro<g ref="char:EOLhyphen"/>tecting it by his ſpecial providence, guiding and comforting it by his Spirit, and at laſt glorifying it with himſelf eternally.</p>
+            <p>To apply this:</p>
+            <p n="1">1. May we have Communion with the Father, and with his Son: Let us not then be ſolicitous, for the mediation of Saints and Angels. and beſtow more devotion and honor on them, than on the immediate ſer<g ref="char:EOLhyphen"/>vice of God and our Saviour. Thoſe ho<g ref="char:EOLhyphen"/>ly Spirits will be all of our Communion; they join with us in praiſing God, and will in their capacities, be miniſtring Spi<g ref="char:EOLhyphen"/>rits to our neceſſities: For worſhipping them we have no Apoſtolical Precept or Exam<g ref="char:EOLhyphen"/>ple; but many to the contrary, and there<g ref="char:EOLhyphen"/>fore, <hi>See thou do it not,</hi>
+               <note place="margin">Rev. 19.10.</note> 
+               <hi>I am thy fellow-ſer<g ref="char:EOLhyphen"/>vant—worſhip thou God.</hi>
+            </p>
+            <p n="2">
+               <pb n="58" facs="tcp:33816:34"/>2. Let us walk worthy of ſo holy Com<g ref="char:EOLhyphen"/>munion; if we ſay, we have fellowſhip with him, and walk in darkneſs, we lie and do not the truth. Our not doing accord<g ref="char:EOLhyphen"/>ing to the truth we profeſs, is a giving the lie to it, a diſgracing of our Religion, as if it did allow us in wickedneſs. <hi>Waſh you,</hi>
+               <note place="margin">Iſa. 2.</note> 
+               <hi>make you clean,</hi> &amp;c. <hi>Come now, and let us reaſon together:</hi> A holy man may talk with God, as a man talketh with his friend. But, <hi>What Communion hath light with dark<g ref="char:EOLhyphen"/>neſs?</hi>
+               <note place="margin">2 Cor. 6.14, 15.</note> 
+               <hi>what concord hath Chriſt with Belial?</hi> None but <hi>Virtuoſo's</hi> can be of this Royal Society; wherefore, <hi>Let every one that na<g ref="char:EOLhyphen"/>meth the Name of Chriſt depart from ini<g ref="char:EOLhyphen"/>quity.</hi> In this only, ſeparation is to be ju<g ref="char:EOLhyphen"/>ſtified, in having no fellowſhip with the un<g ref="char:EOLhyphen"/>fruitful works of darkneſs: Our Commu<g ref="char:EOLhyphen"/>nion with their perſons will not defile us, if we avoid their ſins. The Diſciples were not polluted, by having a <hi>Judas</hi> among them.</p>
+            <p>Nor was <hi>Judas</hi> his ſin leſs, becauſe he lived in the Communion of Chriſt and his Apoſtles, it will be an aggravation of our diſobedience, that we who pretend to be his moſt familiar Friends, and are admitted to feed at Chriſts Table, ſhould lift up the heel againſt him. Our care, not to offend him, ſhould bear proportion with the mea<g ref="char:EOLhyphen"/>ſure of his friendſhip to us, and that abun<g ref="char:EOLhyphen"/>dant Charity, which we have received from
+<pb n="59" facs="tcp:33816:34"/> Chriſt our head, ſhould be mutually con<g ref="char:EOLhyphen"/>veyed to his members, and not like thoſe who write themſelves, <hi>e Societate Jeſu,</hi> but are enemies to all but their own Fraterni<g ref="char:EOLhyphen"/>ty:<note place="margin">Joh 13.35. &amp; 15.14.</note> Then will our Saviour own us for his Diſciples, when we love one another; and for his Friends, when we do whatſoever he commands us.</p>
+            <p n="3">3. Let us bleſs God, that hath called us to Himſelf, his Son, and his Apoſtles; here let us fix as the primitive Chriſtians did, who though they ſaw the cloud of per<g ref="char:EOLhyphen"/>ſecution ready to pour down Cataracts of blood upon them, yet <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, they were reſolved to weather it out.<note place="margin">Act. 2.42.</note> Our Saviour foretold his Apoſtles, and they have informed us, that we muſt reſiſt even to blood, that we may not ſtartle at any op<g ref="char:EOLhyphen"/>poſition, as at a ſtrange thing. And when we ſee, how active and patient too, every Sectary is for the promoting of any facti<g ref="char:EOLhyphen"/>on; they that are members of the Catho<g ref="char:EOLhyphen"/>lick Body, ſhould ſhew, that they have ſtill the blood and ſpirits of the primitive Chri<g ref="char:EOLhyphen"/>ſtians, animating them with courage and reſolution anſwerable to their high Calling. Conſider therefore, him that endured ſuch contradiction of ſinners againſt himſelf:<note place="margin">Heb. 12.</note> he ſuffered both from <hi>Herod,</hi> and from <hi>Pontius Pilate,</hi> and ſo did the Apoſtles, from falſe Brethren, as well as from open enemies. If we ſuffer by the Papiſts, as Sectaries;
+<pb n="60" facs="tcp:33816:35"/> and by the Sectaries as Papiſts; even in this alſo we are made conformable to the Son of God, and may ſay—<hi>Truly our fel<g ref="char:EOLhyphen"/>lowſhip is with the Father, and with his Son Jeſus Chriſt:</hi> It is begun in the Church Militant, and ſhall be perfected in the Church Triumphant: And the light afflictions we endure here, ſhall add weight to the Crown of Glory hereafter.</p>
+            <p>If then our Church Communion be as <hi>Jacobs</hi> Ladder, which had God at the Top of it,<note place="margin">
+                  <hi>Gen.</hi> 28.12, 13.</note> though the Foot be on the Earth. (for it was God ſent his Son, and the Son of God ſent his Apoſtles, and the Apoſtles took care for a ſucceſſion in the Church of God till Chriſts ſecond Coming), they are great deſpiſers of the Ordinance of God, and the bleſſings annexed to them, that turn their backs on them, and wilfully forſake their own mercies; for when our Saviour promiſed a ſucceſſion of Paſtors to his Church, he appropriated his bleſſing to them, <hi>Lo, I am with you;</hi> with them in a ſpecial manner, more than with others, elſe the promiſe would ſignifie nothing.</p>
+            <p>If therefore we run after them, that run before they are ſent, as they go not on Gods meſſage,<note place="margin">Heb. 5.4.</note> ſo they cannot effect Gods end upon us. No man taketh this Honour to himſelf but he diſhonours God, as if God
+<pb n="61" facs="tcp:33816:35"/> could not provide for his Church; or as if humane inventions were more effectual inſtruments of Piety than Gods Ordinances. It was ſaid by ſome that God in thoſe times had raiſed up extraordinary Mini<g ref="char:EOLhyphen"/>ſters. Many indeed have pretended to be ſuch; and Chriſt foretold of their coming. <hi>There ſhall ariſe falſe Chriſts, and falſe Pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eets,</hi> men of no ordinary dignity;<note place="margin">Mat. 24.24, 26.</note> 
+               <hi>and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y ſhall ſhew great ſigns and wonders;</hi> draw great multitudes, and not of the ordinary <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rt; <hi>they ſhall (if it were poſſible) deceive the very elect,</hi> they ſhall captivate the Con<g ref="char:EOLhyphen"/>ſciences of men, and cauſe great alterations <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Church and State; (<hi>But behold,</hi> ſaith our Saviour <hi>I have told you before; there<g ref="char:EOLhyphen"/>fore if they ſhall ſay, Behold he is in the de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ert, go not forth, Behold he is in the ſecret Chambers, believe it not.</hi> He is neither in the Cells of Hermits, nor in the Chambers of Sectaries; his preſence and bleſſing is with his Church, which he redeemeth with his Blood, to which he promiſed his Spirit; and in which he hath from the beginning preſerved a ſucceſſion of Paſtors, and will <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it to the end, againſt all the powers of Hell. <hi>God loveth the Gates of Sion</hi> (ſaith <hi>David) more than all the dwellings of Jacob. Here will I dwell,</hi> ſaith God,<note place="margin">Pſ. 87.2. Pſ. 132.13 133.3.</note> 
+               <hi>for I have a delight in it, from Sion he will command <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> bleſſings.</hi>
+            </p>
+            <pb n="62" facs="tcp:33816:36"/>
+            <p>They that will enjoy the priviledges of a Society, muſt live under the Government, and be obedient to the Laws of it; and if we expect to partake of the bleſſings pro<g ref="char:EOLhyphen"/>miſed to the Church of Chriſt, we muſt live in its Communion: As for intruders and hirelings,<note place="margin">Quiſquis ab Eccleſiâ ſeparatus, adulterae jungitur, à promiſſis Eccleſiae ſeparatur. S. <hi>Cypr. Jer. 23.32</hi>
+               </note> 
+               <hi>My Sheep will not hear their voice, nor follow them,</hi> ſaith Chriſt; or if they ſhould, they will be led through briars and thorns. <hi>I ſent them not, nor commanded them.</hi> (ſaith God of ſuch Prophets); <hi>therefore they ſhall not profit this people at all.</hi> Not profit them you will ſay? there are none like them, for knowledg and diſcourſe of hea<g ref="char:EOLhyphen"/>venly things; none make longer prayers, or manifeſt greater zeal; this may be, and yet they are not profited.</p>
+            <p n="1">
+               <note place="margin">1 Cor. 13.</note>1. Let St. <hi>Paul</hi> demonſtrate how this may be; He ſuppoſeth they be men of ex<g ref="char:EOLhyphen"/>cellent gifts, and have the tongues of Men and Angels, as eloquent as Apollo's; but wanting Charity, they are as ſounding-braſs, make a great noiſe, but profit no<g ref="char:EOLhyphen"/>thing.</p>
+            <p n="2">2. They are men of great knowledg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> can expound the moſt myſterious parts of the Revelation; and they have ſuch a ple<g ref="char:EOLhyphen"/>rophory of Faith as carrieth them on againſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> oppoſition; they can remove mountains,
+<pb n="63" facs="tcp:33816:36"/> yet wanting Charity, they profit no<g ref="char:EOLhyphen"/>thing.</p>
+            <p n="3">3. Yea, but they have Charity alſo: they beſtow all their goods on the poor, and give their bodies to be burnt, yet they may want true Charity; that Charity that is long-ſuffering, and kind, that doth not envy, nor vaunt it ſelf, is not puffed up, or behaveth it ſelf unſeemly; that doth not ſeek her own, is not eaſily provoked, thinketh no evil, <hi>&amp;c.</hi> If they do not practiſe theſe things themſelves, and preach them to their Diſciples they cannot profit them,<note place="margin">Rev. 16.18.</note> they may pleaſe them by their <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, complementing them as the Saints and Elect of God, they may be a means of profiting them too, in reſpect of Tempo<g ref="char:EOLhyphen"/>ral advantages; but though they lead them to a warmer Sun, they carry them farther from Gods bleſſing. If they ſow the ſeeds of diviſion, and improve them to ſeparation, to unchriſtian cenſuring,<note place="margin">
+                  <hi>Jam. 3.15.</hi> Hortari ad Eccleſiae reformati<g ref="char:EOLhyphen"/>onem &amp; ſubtrahere unitatem Hereticae institutio<g ref="char:EOLhyphen"/>nis est. <hi>Cypr. Jer. 7.9.</hi>
+               </note> irre<g ref="char:EOLhyphen"/>concilable malice, and invincible prejudices againſt their Fathers and Brethren; they do edificare in <hi>Gehennam.</hi> This wiſdom is not <hi>from above, but is earthly, ſenſual, deviliſh:</hi> How ſhould they build the Church that uſe nothing but Axes and Hammers, to deſtroy the unity and beauty of it? they that renounce that Society, to which they had ſolemnly ſworn fidelity, and afterward
+<pb n="63" facs="tcp:33816:37"/> conſpire againſt it, and raiſe Altar againſt Altar; and as the <hi>Samaritans</hi> ſet up Mount <hi>Gerizim</hi> againſt Mount <hi>Sion,</hi> and affront the Catholick Church, with Chimney-Con<g ref="char:EOLhyphen"/>venticles; let them proclaim themſelves for <hi>The Temple of the Lord,</hi> (as the <hi>Jews</hi> did) with never ſo much clamor and confidence, if they are guilty of ſtealing, murthering, committing adultery and ſwearing falſly, and turn the Houſe of God into a den of Thieves; they truſt in lying words that will not profit them. And who but a perſon that God hath given up to a ſpirit of De<g ref="char:EOLhyphen"/>luſion, would believe a few revolted and diſagreeing Miniſters in this later age of the Church, againſt the conſtant and una<g ref="char:EOLhyphen"/>nimous teſtimonies of Martyrs and Confeſ<g ref="char:EOLhyphen"/>ſors, the Biſhops and Pillars of the univerſal Church. <hi>Therefore, ſay ye not a confederacy to them, to whom this people ſhall ſay a con<g ref="char:EOLhyphen"/>federacy, neither fear ye their fear,</hi>
+               <note place="margin">Iſa. 8.22. 1 Pet. 3.14.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>worſhip not their worſhip<g ref="char:punc">▪</g>) nor be afraid, but ſanctifie the Lord of Hoſts himſelf, and let him be your fear, and your dread, and be ſhall be for a Sanctuary to you;</hi> but a ſtone of ſtumbling and a rock of offence, to the enemies of his Worſhip. Remember to what deſtruction <hi>Corah Dathan</hi> and <hi>Abiram,</hi> brought themſelves and the Congregations that followed them.<note place="margin">Numb 16 31.</note> Brethren be not <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ei<g ref="char:EOLhyphen"/>ved, (ſaith <hi>Ignatius</hi>) if any one follow him that maketh a Schiſm,<note place="margin">Ad <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hilad.</note> he ſhall not inherit
+<pb n="65" facs="tcp:33816:37"/> the Kingdom of God:<note place="margin">Gal. 5.20.</note> The Apoſtle ſays the ſame, when he reckoneth, <hi>Hatred, va<g ref="char:EOLhyphen"/>riance, emulation, wrath, ſtrife, ſeditions, and hereſies, among the works of the fleſh; which whoſoever doth, ſhall not inherit the Kingdom of God.</hi> And this is indeed the judgment of every Schiſmatick; who are as the Apoſtle notes, <hi>ſelf-condemned.</hi>
+               <note place="margin">Tit. 3.11.</note> For while every petty faction doth not only rival, but re<g ref="char:EOLhyphen"/>probate every other that diſſenteth from it, as if that Congregation alone, were the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the beloved Spouſe;</hi> they ex<g ref="char:EOLhyphen"/>clude all others; and ſo ſubſcribe to that common Maxim, That out of the Church, there is no Salvation.</p>
+            <p>We may only then be well aſſured, that God is our Father, when we own the true Church of God for our Mother. We are bid by <hi>Solomon,</hi>
+               <note place="margin">Prov. 1.8.</note> not only to hear the Inſtructions of our Father, but alſo, not to forſake the Law of our Mother. And <hi>Solomon Jarchi</hi> tells us, God is our Fa<g ref="char:EOLhyphen"/>ther, and the Congregation of <hi>Iſrael</hi> is our Mother. And a greater than both theſe <hi>Solomons</hi> hath ſaid, <hi>He that will not hear the Church,</hi>
+               <note place="margin">Mat. 18.17.</note> 
+               <hi>let him be to thee as a Heathen and a Publican.</hi>
+            </p>
+            <p>Our Saviour will doubtleſs maintain the honor, and continue the benediction, which from the beginning he endowed
+<pb n="66" facs="tcp:33816:38"/> his Church and Ordinances with. He never did nor will own, or proſper, thoſe that pretend to an extraordinary Mini<g ref="char:EOLhyphen"/>ſtry, or greater purity of Ordinances than thoſe which he hath inſtituted, when they may h<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Communion with them. Though he called St. <hi>Paul</hi> to the Apo<g ref="char:EOLhyphen"/>ſtleſhip by a Miracle, yet is he mindful of his <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Inſtitution, and ſends him to <hi>A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ias</hi> for Bapti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m,<note place="margin">Act. 9 18. Act. 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.1. 1 Tim. 4.14.</note> and to the Church of <hi>A<gap reason="illegible" resp="#PDCC" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Ordination. The office to which <hi>Timothy</hi> was conſecrated, was gi<g ref="char:EOLhyphen"/>ve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him by Propheſie, <hi>i. e.</hi> ſaith <hi>Theodoret,</hi> by Di<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Revelation: The Holy Ghoſt command<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it, ſaith <hi>Theophyl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> and ſo whatever it was, it was <hi>Jure Divino<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> yet was it not thought ſufficient without the Hands of the <hi>Presbytery.</hi> And St. <hi>Paul</hi> tells us as much,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. pro officis. <hi>Rom. 10.15</hi> Bonum non <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ex cauſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> integri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> and plainly, as is need<g ref="char:EOLhyphen"/>ful in this Argument: That where there is not a Miniſter rightly commiſſioned for his <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to the Inſtitution of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Apoſtles, and to that ſuc<g ref="char:EOLhyphen"/>ceſſion, which is alway to continue in the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt, where ſuch Ordination may be had, but is deſpiſed, there are nei<g ref="char:EOLhyphen"/>ther Prayers, nor Preach<g ref="char:EOLhyphen"/>ing, nor Faith, nor Sacra<g ref="char:EOLhyphen"/>ments neither,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> though the people may be perſwaded, that they have all theſe in their greateſt purity. Was he a Chriſtian
+<pb n="67" facs="tcp:33816:38"/> who fancied,<note place="margin">St. Cypri<g ref="char:EOLhyphen"/>an <hi>of</hi> No<g ref="char:EOLhyphen"/>vation, Qui con<g ref="char:EOLhyphen"/>tempta Eccleſiae traditione ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ipſum ordinavit.</note> that God had no Church in the World for a long time, and therefore baptized himſelf, as the Founder of a new Church? They are not altogether unlike him, who diſliking all the ancient Forms of Government and Worſhip, continued in the Church from the Apoſtles days, do invent Modes of their own, and worſhip their own Deluſions; which either were never heard of in the Church, or as ſoon condemned and confuted, as they were pub<g ref="char:EOLhyphen"/>liſhed.</p>
+            <p>It may be, unwary men may be ſo miſ<g ref="char:EOLhyphen"/>guided, as to think,<note place="margin">Joh. 16.2.</note> they do God good ſervice in all their prophanations: but ſo did they who did kill the Diſciples of Chriſt, whoſe good intentions could not juſtifie their ungodly actions.</p>
+            <p>And what if theſe ſeduced people, ſhould by degrees, be perſwaded to act over a<g ref="char:EOLhyphen"/>gain all thoſe ſad Scenes of Rapine, and Murther, and Confuſion, which by per<g ref="char:EOLhyphen"/>ſons of like Principles, have been execu<g ref="char:EOLhyphen"/>ted on the beſt of Kings, and his incom<g ref="char:EOLhyphen"/>parable Nobility, and Gentry, as well as on a moſt pious and prudent Cler<g ref="char:EOLhyphen"/>gy?</p>
+            <p>May they not think, ſtill they are do<g ref="char:EOLhyphen"/>ing God ſervice, when their Leaders are
+<pb n="68" facs="tcp:33816:39"/> ſo far from calling them to repentance for what is paſt, as that they rather ſet them in a way that tends directly to the ſame Confuſions again.</p>
+            <p>
+               <note place="margin">Mat. 23.29.</note>In vain did the <hi>Jews</hi> build the Tombs of the ancient Prophets, and honoured the Memories of the Righteous that were of old; when they actually perſecuted thoſe Prophets and wiſe Men that Chriſt had ſent to them. What reſpect have they for thoſe Martyrs and Confeſſors in the <hi>Marian</hi> days, that ſeparate from, and ex<g ref="char:EOLhyphen"/>poſe to contempt and ruin, thoſe that are their undoubted Succeſſors, in the ſame, if not a more reformed Doctrine and Worſhip. It is dreadful to think what the effects of this Separation may be to others;<note place="margin">Aut in Vi<g ref="char:EOLhyphen"/>te, aut in Igne. Qui extra Eccleſiam Catholicam vitam finiunt in ignem eternum ituri. <hi>St. Auguſt. de fide ad</hi> P. D.</note> it cannot be otherwiſe than de<g ref="char:EOLhyphen"/>ſtructive to its Authors and Abettors.</p>
+            <p>I end with that moſt ſerious Exhorta<g ref="char:EOLhyphen"/>tion of the Apoſtle, <hi>Heb.</hi> 10.24. <hi>Let us conſider one another,</hi> (not raſhly to cenſure and condemn our Brethren, but), <hi>to pro<g ref="char:EOLhyphen"/>voke one another to good works, not forſaking the aſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mbling of our ſelves together, as the manner of ſome is.—For if we ſin wilfully</hi> (by our Apoſtacy from the true Church)
+<pb n="69" facs="tcp:33816:39"/> 
+               <hi>after we have received the knowledg of the truth, there remaineth no more ſacrifice for ſin, But a certain fearful looking for of ven<g ref="char:EOLhyphen"/>geance, and fiery indignation, which ſhall de<g ref="char:EOLhyphen"/>vour the Adverſaries.</hi> From which Si<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Judgment, Good Lord deliver us.</p>
+            <q>All men will walk, every one in the name of his God: And we will walk in the Name of the Lord our God, for ever and ever, <bibl>
+                  <hi>Mic. 4.5.</hi>
+               </bibl>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
